@@ -1,0 +1,75 @@
+\documentclass[10pt]{article}
+\usepackage[a4paper,portrait,margin=0.35in]{geometry}
+\usepackage{booktabs}
+\usepackage{threeparttable}
+\usepackage{caption}
+\usepackage{array}
+\setlength{\tabcolsep}{3pt}
+\renewcommand{\arraystretch}{0.95}
+\begin{document}
+\thispagestyle{empty}
+\begin{table}[h!]
+  \centering
+  \scriptsize
+  \caption{Table 2}
+  \label{rating-table-iso-dummies}
+  \begin{threeparttable}
+  \begin{tabular}{lcccccc}
+    \toprule
+    Variable & All & + below\_IG & + SIDS & + TC\_exposed1 & + TC\_exposed2 & + below\_IG and TC\_exposed2 \\
+    \midrule
+    Public debt/GDP & -0.0214*** & -0.0203*** & -0.0195*** & -0.0212*** & -0.0203*** & -0.0198*** \\
+     & (0.0064) & (0.0061) & (0.0058) & (0.0063) & (0.0060) & (0.0059) \\[2pt]
+    GDP per capita (log) & 1.4529*** & 1.0980*** & 1.3947*** & 1.4353*** & 1.3863*** & 1.0891*** \\
+     & (0.3226) & (0.2850) & (0.3201) & (0.3210) & (0.3256) & (0.2882) \\[2pt]
+    GDP growth & -0.0763** & -0.0858** & -0.0916*** & -0.0781** & -0.0905*** & -0.0934*** \\
+     & (0.0328) & (0.0340) & (0.0327) & (0.0323) & (0.0336) & (0.0348) \\[2pt]
+    Primary balance & -0.0502 & -0.0397 & -0.0361 & -0.0495 & -0.0457 & -0.0379 \\
+     & (0.0355) & (0.0336) & (0.0321) & (0.0351) & (0.0348) & (0.0336) \\[2pt]
+    Current account/GDP & -0.0070 & 0.0067 & 0.0013 & -0.0079 & -0.0066 & 0.0057 \\
+     & (0.0250) & (0.0233) & (0.0229) & (0.0251) & (0.0245) & (0.0231) \\[2pt]
+    Crisis (sovereign default) & -0.6217** & -0.4472* & -0.5613** & -0.6202** & -0.5582** & -0.4247* \\
+     & (0.2650) & (0.2536) & (0.2598) & (0.2651) & (0.2646) & (0.2522) \\[2pt]
+    Sovereign default (past 5y) & -1.3629*** & -1.0793*** & -1.1912*** & -1.3568*** & -1.3723*** & -1.1090*** \\
+     & (0.3162) & (0.3076) & (0.3128) & (0.3197) & (0.3140) & (0.3021) \\[2pt]
+    WGI: Regulatory Quality & 1.7391*** & 1.1037*** & 1.4046*** & 1.7553*** & 1.8494*** & 1.2226*** \\
+     & (0.4160) & (0.3893) & (0.4165) & (0.4352) & (0.4129) & (0.3779) \\[2pt]
+    WGI: Rule of Law & 1.2886*** & 1.6753*** & 1.4601*** & 1.2790*** & 1.1722*** & 1.5740*** \\
+     & (0.4159) & (0.3723) & (0.3992) & (0.4246) & (0.4080) & (0.3562) \\[2pt]
+    WGI: Political Stability & -0.5949** & -0.5051* & -0.3610 & -0.5929** & -0.5378* & -0.4792* \\
+     & (0.2795) & (0.2596) & (0.2624) & (0.2797) & (0.2806) & (0.2670) \\[2pt]
+    Inflation & -0.0641*** & -0.0569*** & -0.0652*** & -0.0647*** & -0.0634*** & -0.0571*** \\
+     & (0.0188) & (0.0170) & (0.0180) & (0.0190) & (0.0181) & (0.0168) \\[2pt]
+    Unemployment & -0.1233*** & -0.1239*** & -0.1219*** & -0.1258*** & -0.1342*** & -0.1302*** \\
+     & (0.0300) & (0.0275) & (0.0298) & (0.0339) & (0.0310) & (0.0285) \\[2pt]
+    below\_IG\_dummy &  & -1.7837*** &  &  &  & -1.6320*** \\
+     &  & (0.4300) &  &  &  & (0.3845) \\[2pt]
+    SIDS\_dummy &  &  & -1.8180*** &  &  &  \\
+     &  &  & (0.5218) &  &  &  \\[2pt]
+    TC\_exposed1\_dummy &  &  &  & -0.1067 &  &  \\
+     &  &  &  & (0.4280) &  &  \\[2pt]
+    TC\_exposed2\_dummy &  &  &  &  & -0.8961* & -0.5266 \\
+     &  &  &  &  & (0.4864) & (0.4141) \\[2pt]
+    \midrule
+    Constant & 1.9471 & 5.6087** & 2.4994 & 2.1496 & 2.7084 & 5.7445** \\
+     & (2.8097) & (2.5425) & (2.7814) & (2.8142) & (2.8459) & (2.5688) \\[2pt]
+    Observations & 1730 & 1730 & 1730 & 1730 & 1730 & 1730 \\
+    R-squared & 0.869 & 0.88 & 0.878 & 0.869 & 0.873 & 0.881 \\
+    Number of countries & 94 & 94 & 94 & 94 & 94 & 94 \\
+    Country fixed effects & No & No & No & No & No & No \\
+    Year fixed effects & Yes & Yes & Yes & Yes & Yes & Yes \\
+    Time period & 1996-2019 & 1996-2019 & 1996-2019 & 1996-2019 & 1996-2019 & 1996-2019 \\
+    Frequency & Annual & Annual & Annual & Annual & Annual & Annual \\
+    \bottomrule
+  \end{tabular}
+  \begin{tablenotes}
+    \footnotesize
+    \item Standard errors in parentheses, clustered by ISO. *** $p<0.01$, ** $p<0.05$, * $p<0.1$.
+    \item \textit{below\_IG}: countries with $<$BBB- credit rating in 2019.
+    \item \textit{SIDS}: Small Island Developing States.
+    \item \textit{TC\_exposed1}: countries exposed to $>$cat1 wind speeds, excluding countries that fall outside tropical latitudes ($\pm$23.5$^\circ$).
+    \item \textit{TC\_exposed2}: countries exposed to $>$cat3 wind speeds, excluding countries that fall outside tropical latitudes ($\pm$23.5$^\circ$).
+  \end{tablenotes}
+  \end{threeparttable}
+\end{table}
+\end{document}

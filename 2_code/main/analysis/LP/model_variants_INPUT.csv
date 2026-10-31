@@ -1,0 +1,46 @@
+# Local-projection variants run by run_lp.R (one row = one set of coefficient files).
+# Rows cover every LP coefficient file the figures read (main text, SI Figs. S5-S7, R_otherdebtmetrics);
+# add a row to test another variant.
+# Row 1 is the main model; `Rscript run_lp.R` with no arguments runs it.
+# Lists inside a cell are separated by ";" (one output file per subset; trends and shocks are stacked in it).
+# Allowed values (see run_lp.R):
+#   estimator      lp | wild_bootstrap
+#   outcome        public_pp_GDD private_pp_GDD cg_debt_pp_GDD gg_debt_WEO panel_ggdy gg_debt_GMD
+#                  gdp_pcap_wdi_constant2015_USD ed_pp_GNI ed_pp_exports   (columns of 1_input/panel/lp_panel.csv)
+#   sample         1980onwards 1970onwards 1980_2022 unbalanced 40yrs_data 30yrs_data
+#   subsets        full full2 remove_outliers oecd non-oecd sids non-sids rated non-rated rated_Agrade rated_Bgrade
+#   exposure       bins (ts_v2/cat1_v2/cat3_v2) | avg_ws
+#   tc_lags        number of TC lags;  temp_controls yes|no;  growth_lags 1|2
+#   fixed_effects  ISO_year | year_trend (year + ISO[[year]]) | year | region_year
+#   time_trends    linear;no_trend;quadratic (only ISO_year has all three)
+#   vcov           cluster_ISO | cluster_region | DK | hetero | fixest_default
+#   tshocks        NATH;Tshock0;BILAL;temp
+#   out_folder     subfolder of 3_output/debtratio/TC+Tshock/coef_df/ (LP_coefficients, read by the figures;
+#                  bootstrap_wild for the bootstrap, so it is not loaded twice)
+#   tag            leave empty to build the file tag from the settings
+# Note: rows with sample 1980_2022 and a 1980onwards tag reproduce the published S5 rows 1 and 6,
+#       which were estimated on the 1980-2022 sample; the tag keeps the file names the figures read.
+name,estimator,outcome,sample,subsets,exposure,tc_lags,temp_controls,growth_lags,fixed_effects,time_trends,vcov,tshocks,out_folder,tag,used_in
+main,lp,public_pp_GDD,1980onwards,full;remove_outliers;non-oecd,bins,10,yes,2,ISO_year,linear;no_trend;quadratic,cluster_ISO,NATH;Tshock0;BILAL,LP_coefficients,,Figs 1-5; S5 rows 3-4; S6
+main_subsets,lp,public_pp_GDD,1980onwards,rated;non-rated;rated_Agrade;rated_Bgrade;sids,bins,10,yes,2,ISO_year,linear;no_trend;quadratic,cluster_ISO,NATH,LP_coefficients,,S5 row 3; S6 row 3; R_otherdebtmetrics
+gdp_main,lp,gdp_pcap_wdi_constant2015_USD,1970onwards,full,bins,10,yes,2,ISO_year,linear;no_trend;quadratic,cluster_ISO,NATH;Tshock0;BILAL,LP_coefficients,,Figs 2-4; S7
+sample_1980_2022,lp,public_pp_GDD,1980_2022,full,bins,10,yes,2,ISO_year,linear;no_trend;quadratic,cluster_ISO,NATH,LP_coefficients,,S5 row 5
+sample_unbalanced,lp,public_pp_GDD,unbalanced,full,bins,10,yes,2,ISO_year,linear;no_trend;quadratic,cluster_ISO,NATH,LP_coefficients,,S5 row 5; S6 row 2
+sample_40yrs,lp,public_pp_GDD,40yrs_data,full,bins,10,yes,2,ISO_year,linear;no_trend;quadratic,cluster_ISO,NATH,LP_coefficients,,S5 row 5; S6 row 2
+sample_30yrs,lp,public_pp_GDD,30yrs_data,full,bins,10,yes,2,ISO_year,linear;no_trend;quadratic,cluster_ISO,NATH,LP_coefficients,,S5 row 5
+se_DK,lp,public_pp_GDD,1980_2022,full,bins,10,yes,2,ISO_year,linear,DK,NATH,LP_coefficients,1980onwards_gl2_TC10_T02_DK,S5 row 1 (1980-2022 sample as published; tag kept)
+se_white,lp,public_pp_GDD,1980_2022,full,bins,10,yes,2,ISO_year,linear,hetero,NATH,LP_coefficients,1980onwards_gl2_TC10_T02_WHITE,S5 row 1 (1980-2022 sample as published; tag kept)
+se_cluster_region,lp,public_pp_GDD,1980onwards,full,bins,10,yes,2,ISO_year,linear,cluster_region,NATH,LP_coefficients,,S5 row 1
+se_wild_bootstrap,wild_bootstrap,public_pp_GDD,1980_2022,full,bins,10,yes,2,ISO_year,linear,cluster_ISO,NATH,bootstrap_wild,1980onwards_gl2_TC10_T02_boot_wild,S5 row 1 (1980-2022 sample as published; tag kept)
+no_temp_controls,lp,public_pp_GDD,1980onwards,full,bins,10,no,2,ISO_year,linear;no_trend;quadratic,cluster_ISO,NATH,LP_coefficients,,S5 row 2
+growth_lag1,lp,public_pp_GDD,1980onwards,full,bins,10,yes,1,ISO_year,linear,fixest_default,NATH,LP_coefficients,,S5 row 2
+tc_lags5,lp,public_pp_GDD,1980onwards,full,bins,5,yes,2,ISO_year,linear,fixest_default,NATH,LP_coefficients,,S5 row 2
+year_FE_only,lp,public_pp_GDD,1980onwards,full,bins,10,yes,2,year_trend,linear,fixest_default,NATH,LP_coefficients,,S5 row 2
+year_region_FE,lp,public_pp_GDD,1980onwards,full,bins,10,yes,2,region_year,linear,fixest_default,NATH,LP_coefficients,,S5 row 2
+debt_central_gov,lp,cg_debt_pp_GDD,1980onwards,full,bins,10,yes,2,ISO_year,linear,cluster_ISO,NATH,LP_coefficients,,S5 row 6
+debt_WEO,lp,gg_debt_WEO,1980_2022,full,bins,10,yes,2,ISO_year,linear,cluster_ISO,NATH,LP_coefficients,1980onwards_gl2_TC10_T02,S5 row 6 (1980-2022 sample as published; tag kept)
+debt_Kose,lp,panel_ggdy,1980_2022,full,bins,10,yes,2,ISO_year,linear,cluster_ISO,NATH,LP_coefficients,1980onwards_gl2_TC10_T02,S5 row 6 (1980-2022 sample as published; tag kept)
+debt_GMD,lp,gg_debt_GMD,1980_2022,full,bins,10,yes,2,ISO_year,linear,cluster_ISO,NATH,LP_coefficients,1980onwards_gl2_TC10_T02,S5 row 6 (1980-2022 sample as published; tag kept)
+private_debt,lp,private_pp_GDD,1980onwards,full;non-oecd;non-rated;rated;sids,bins,10,yes,2,ISO_year,linear,cluster_ISO,NATH,LP_coefficients,,R_otherdebtmetrics
+external_debt_GNI,lp,ed_pp_GNI,1980onwards,full;non-oecd;non-rated;rated;sids,bins,10,yes,2,ISO_year,linear,cluster_ISO,NATH,LP_coefficients,,R_otherdebtmetrics
+external_debt_exports,lp,ed_pp_exports,1980onwards,full;non-oecd;non-rated;rated;sids,bins,10,yes,2,ISO_year,linear,cluster_ISO,NATH,LP_coefficients,,R_otherdebtmetrics

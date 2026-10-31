@@ -1,0 +1,20 @@
+Rating panel: outcome = avgscore_yr (mean of S&P, Moody's, Fitch scores; higher = better).
+
+All (146 ISOs):
+  ['AGO', 'ALB', 'AND', 'ARE', 'ARG', 'ARM', 'AUS', 'AUT', 'AZE', 'BEL', 'BEN', 'BFA', 'BGD', 'BGR', 'BHR', 'BHS', 'BIH', 'BLR', 'BLZ', 'BOL', 'BRA', 'BRB', 'BWA', 'CAN', 'CHE', 'CHL', 'CHN', 'CIV', 'CMR', 'COD', 'COG', 'COL', 'CPV', 'CRI', 'CUB', 'CYP', 'CZE', 'DEU', 'DNK', 'DOM', 'ECU', 'EGY', 'ESP', 'EST', 'ETH', 'FIN', 'FJI', 'FRA', 'GAB', 'GBR', 'GEO', 'GHA', 'GRC', 'GTM', 'HND', 'HRV', 'HUN', 'IDN', 'IND', 'IRL', 'IRN', 'IRQ', 'ISL', 'ISR', 'ITA', 'JAM', 'JOR', 'JPN', 'KAZ', 'KEN', 'KGZ', 'KHM', 'KOR', 'KWT', 'LAO', 'LBN', 'LBY', 'LIE', 'LKA', 'LSO', 'LTU', 'LUX', 'LVA', 'MAR', 'MDA', 'MDG', 'MDV', 'MEX', 'MLI', 'MLT', 'MNE', 'MNG', 'MOZ', 'MUS', 'MYS', 'NAM', 'NER', 'NGA', 'NIC', 'NLD', 'NOR', 'NZL', 'OMN', 'PAK', 'PAN', 'PER', 'PHL', 'PNG', 'POL', 'PRT', 'PRY', 'QAT', 'ROU', 'RUS', 'RWA', 'SAU', 'SEN', 'SGP', 'SLB', 'SLV', 'SMR', 'SRB', 'SUR', 'SVK', 'SVN', 'SWE', 'SWZ', 'SYC', 'TGO', 'THA', 'TJK', 'TKM', 'TTO', 'TUN', 'TUR', 'TZA', 'UGA', 'UKR', 'URY', 'USA', 'UZB', 'VCT', 'VEN', 'VNM', 'ZAF', 'ZMB']
+
+above_IG (67 ISOs):
+  ['AND', 'ARE', 'AUS', 'AUT', 'BEL', 'BGR', 'BHR', 'BHS', 'BWA', 'CAN', 'CHE', 'CHL', 'CHN', 'COL', 'CYP', 'CZE', 'DEU', 'DNK', 'ESP', 'EST', 'FIN', 'FRA', 'GBR', 'GRC', 'HRV', 'HUN', 'IDN', 'IND', 'IRL', 'ISL', 'ISR', 'ITA', 'JPN', 'KAZ', 'KOR', 'KWT', 'LIE', 'LTU', 'LUX', 'LVA', 'MEX', 'MLT', 'MUS', 'MYS', 'NAM', 'NLD', 'NOR', 'NZL', 'OMN', 'PAN', 'PER', 'POL', 'PRT', 'QAT', 'ROU', 'RUS', 'SAU', 'SGP', 'SMR', 'SVK', 'SVN', 'SWE', 'THA', 'TTO', 'TUN', 'USA', 'ZAF']
+
+below_IG (79 ISOs):
+  ['AGO', 'ALB', 'ARG', 'ARM', 'AZE', 'BEN', 'BFA', 'BGD', 'BIH', 'BLR', 'BLZ', 'BOL', 'BRA', 'BRB', 'CIV', 'CMR', 'COD', 'COG', 'CPV', 'CRI', 'CUB', 'DOM', 'ECU', 'EGY', 'ETH', 'FJI', 'GAB', 'GEO', 'GHA', 'GTM', 'HND', 'IRN', 'IRQ', 'JAM', 'JOR', 'KEN', 'KGZ', 'KHM', 'LAO', 'LBN', 'LBY', 'LKA', 'LSO', 'MAR', 'MDA', 'MDG', 'MDV', 'MLI', 'MNE', 'MNG', 'MOZ', 'NER', 'NGA', 'NIC', 'PAK', 'PHL', 'PNG', 'PRY', 'RWA', 'SEN', 'SLB', 'SLV', 'SRB', 'SUR', 'SWZ', 'SYC', 'TGO', 'TJK', 'TKM', 'TUR', 'TZA', 'UGA', 'UKR', 'URY', 'UZB', 'VCT', 'VEN', 'VNM', 'ZMB']
+
+SIDS (16 ISOs):
+  ['BHS', 'BLZ', 'BRB', 'CPV', 'CUB', 'DOM', 'FJI', 'JAM', 'MDV', 'MUS', 'PNG', 'SLB', 'SUR', 'SYC', 'TTO', 'VCT']
+
+TC_exposed1 (38 ISOs):
+  ['AUS', 'BGD', 'BHS', 'BLZ', 'BRA', 'BRB', 'CHN', 'COL', 'CRI', 'CUB', 'DOM', 'FJI', 'FRA', 'GTM', 'HND', 'IND', 'JAM', 'KHM', 'LAO', 'LKA', 'MAR', 'MDG', 'MEX', 'MOZ', 'MUS', 'NIC', 'NZL', 'OMN', 'PAN', 'PHL', 'SLB', 'SLV', 'THA', 'TTO', 'USA', 'VCT', 'VEN', 'VNM']
+
+TC_exposed2 (21 ISOs):
+  ['AUS', 'BGD', 'BHS', 'BLZ', 'BRB', 'CRI', 'CUB', 'DOM', 'FJI', 'HND', 'IND', 'JAM', 'MDG', 'MEX', 'MOZ', 'MUS', 'NIC', 'PHL', 'TTO', 'USA', 'VCT']
+

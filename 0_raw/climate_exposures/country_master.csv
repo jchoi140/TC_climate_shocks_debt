@@ -1,0 +1,278 @@
+year,country,total,un_name,country2,Region.Code,Region.Name,Sub.region.Code,Sub.region.Name,Intermediate.Region.Code,Intermediate.Region.Name,namechange,M49.Code,ISO.alpha2.Code,ISO,Least.Developed.Countries..LDC.,Land.Locked.Developing.Countries..LLDC.,Small.Island.Developing.States..SIDS.,sovereigncountry,IOC_code,numeric_code,currency,SOVEREIGNT,TYPE,ADMIN,nonrated,rated,Ainvestmentgrade,Binvestmentgrade,currency_code
+2000,Afghanistan,900846,,Afghanistan,142,Asia,34,Southern Asia,,,,4,AF,AFG,1,1,,1,AFG,512,AFGHANIS,Afghanistan,Sovereign country,Afghanistan,1,0,0,0,AFN
+2000,Akrotiri (UK),182,?,?,,,,,,,,,,,,,,0,,,,,,,0,0,0,0,
+2000,Albania,44284,,Albania,150,Europe,39,Southern Europe,,,,8,AL,ALB,,,,1,ALB,914,LEKS,Albania,Sovereign country,Albania,0,1,0,1,ALL
+2000,Algeria,3067262,,Algeria,2,Africa,15,Northern Africa,,,,12,DZ,DZA,,,,1,ALG,612,ALGERIAN DINARS,Algeria,Sovereign country,Algeria,1,0,0,0,DZD
+2000,American Samoa (Eastern Samoa),252,American Samoa,American Samoa,9,Oceania,61,Polynesia,,,,16,AS,ASM,,,1,0,ASA,862,TALA,,,,0,0,0,0,WST
+2000,Andorra,730,,Andorra,150,Europe,39,Southern Europe,,,,20,AD,AND,,,,1,AND,,,Andorra,Sovereign country,Andorra,0,1,1,0,
+2000,Angola,1494815,,Angola,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,,24,AO,AGO,1,,,1,ANG,614,KWANZAS,Angola,Sovereign country,Angola,0,1,0,1,AOA
+2000,Anguilla,102,,Anguilla,19,Americas,419,Latin America and the Caribbean,29,Caribbean,,660,AI,AIA,,,1,0,0,312,E.CARIBBEAN DOLLARS,,,,0,0,0,0,XCD
+2000,Antarctica,11329163,,Antarctica,,,,,,,,10,AQ,ATA,,,,0,0,,,,,,0,0,0,0,
+2000,Antigua & Barbuda,556,Antigua and Barbuda,Antigua and Barbuda,19,Americas,419,Latin America and the Caribbean,29,Caribbean,,28,AG,ATG,,,1,1,ANT,311,E.CARIBBEAN DOLLARS,Antigua and Barbuda,Sovereign country,Antigua and Barbuda,1,0,0,0,XCD
+2000,Argentina,4006030,,Argentina,19,Americas,419,Latin America and the Caribbean,5,South America,,32,AR,ARG,,,,1,ARG,213,ARGENTINE PESOS,Argentina,Sovereign country,Argentina,0,1,0,1,ARS
+2000,Armenia,45303,,Armenia,142,Asia,145,Western Asia,,,,51,AM,ARM,,1,,1,ARM,911,DRAMS,Armenia,Sovereign country,Armenia,0,1,0,1,AMD
+2000,Aruba,223,,Aruba,19,Americas,419,Latin America and the Caribbean,29,Caribbean,,533,AW,ABW,,,1,0,ARU,314,ARUBAN FLORINS,,,,0,0,0,0,AWG
+2000,Ashmore & Cartier Islands (Australia),4,?,?,,,,,,,,,,,,,,0,,,,,,,0,0,0,0,
+2000,Australia,10019416,,Australia,9,Oceania,53,Australia and New Zealand,,,,36,AU,AUS,,,,1,AUS,193,AUSTRALIAN DOLLARS,,,,0,1,1,0,AUD
+2000,Austria,144519,,Austria,150,Europe,155,Western Europe,,,,40,AT,AUT,,,,1,AUT,122,EUROS,Austria,Sovereign country,Austria,0,1,1,0,EUR
+2000,Azerbaijan,131467,,Azerbaijan,142,Asia,145,Western Asia,,,,31,AZ,AZE,,1,,1,AZE,912,MANAT,Azerbaijan,Sovereign country,Azerbaijan,0,1,0,1,AZN
+2000,Bahrain,884,,Bahrain,142,Asia,145,Western Asia,,,,48,BH,BHR,,,,1,BRN,419,BAHRAIN DINARS,Bahrain,Sovereign country,Bahrain,0,1,1,0,BHD
+2000,Bangladesh,178279,,Bangladesh,142,Asia,34,Southern Asia,,,,50,BD,BGD,1,,,1,BAN,513,TAKA,Bangladesh,Sovereign country,Bangladesh,0,1,0,1,BDT
+2000,Barbados,529,,Barbados,19,Americas,419,Latin America and the Caribbean,29,Caribbean,,52,BB,BRB,,,1,1,BAR,316,BARBADOS DOLLARS,Barbados,Sovereign country,Barbados,0,1,0,1,BBD
+2000,Belarus,405215,,Belarus,150,Europe,151,Eastern Europe,,,,112,BY,BLR,,,,1,BLR,913,BELARUSIAN RUBELS,Belarus,Sovereign country,Belarus,0,1,0,1,BYN
+2000,Belgium,56104,,Belgium,150,Europe,155,Western Europe,,,,56,BE,BEL,,,,1,BEL,124,EUROS,Belgium,Sovereign country,Belgium,0,1,1,0,EUR
+2000,Belize,27245,,Belize,19,Americas,419,Latin America and the Caribbean,13,Central America,,84,BZ,BLZ,,,1,1,BIZ,339,BELIZE DOLLARS,Belize,Sovereign country,Belize,0,1,0,1,BZD
+2000,Benin,136837,,Benin,2,Africa,202,Sub-Saharan Africa,11,Western Africa,,204,BJ,BEN,1,,,1,BEN,638,CFA FRANCS,Benin,Sovereign country,Benin,0,1,0,1,XOF
+2000,Bermuda,100,,Bermuda,19,Americas,21,Northern America,,,,60,BM,BMU,,,,0,BER,319,BERMUDA DOLLARS,,,,0,0,0,0,BMD
+2000,Bhutan,50810,,Bhutan,142,Asia,34,Southern Asia,,,,64,BT,BTN,1,1,,1,BHU,514,NGULTRUM,Bhutan,Sovereign country,Bhutan,1,0,0,0,BTN
+2000,Bolivia,1324068,Bolivia (Plurinational State of),Bolivia (Plurinational State of),19,Americas,419,Latin America and the Caribbean,5,South America,,68,BO,BOL,,1,,1,BOL,218,BOLIVIANOS,Bolivia,Sovereign country,Bolivia,0,1,0,1,BOB
+2000,Bonaire (Neth),344,"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba",19,Americas,419,Latin America and the Caribbean,29,Caribbean,,535,BQ,BES,,,1,0,0,,,,,,0,0,0,0,
+2000,Bosnia & Herzegovina,83016,Bosnia and Herzegovina,Bosnia and Herzegovina,150,Europe,39,Southern Europe,,,,70,BA,BIH,,,,1,BIH,963,CONVERTIBLE MARKA,Bosnia and Herzegovina,Sovereign country,Bosnia and Herzegovina,0,1,0,1,BAM
+2000,Botswana,729579,,Botswana,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,,72,BW,BWA,,1,,1,BOT,616,PULA,Botswana,Sovereign country,Botswana,0,1,1,0,BWP
+2000,Bouvet I.,104,Bouvet Island,Bouvet Island,19,Americas,419,Latin America and the Caribbean,5,South America,,74,BV,BVT,,,,0,0,,,,,,0,0,0,0,
+2000,Brazil,10189911,,Brazil,19,Americas,419,Latin America and the Caribbean,5,South America,,76,BR,BRA,,,,1,BRA,223,REAIS,Brazil,Sovereign country,Brazil,0,1,0,1,BRL
+2000,British Indian Ocean Territory,91,,British Indian Ocean Territory,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,,86,IO,IOT,,,,0,0,,,,,,0,0,0,0,
+2000,British Virgin Is.,213,British Virgin Islands,British Virgin Islands,19,Americas,419,Latin America and the Caribbean,29,Caribbean,,92,VG,VGB,,,1,0,IVB,,,,,,0,0,0,0,
+2000,Brunei,6907,Brunei Darussalam,Brunei Darussalam,142,Asia,35,South-eastern Asia,,,,96,BN,BRN,,,,1,BRU,516,BRUNEI DOLLARS,Brunei,Sovereign country,Brunei,1,0,0,0,BND
+2000,Bulgaria,175746,,Bulgaria,150,Europe,151,Eastern Europe,,,,100,BG,BGR,,,,1,BUL,918,LEVA,Bulgaria,Sovereign country,Bulgaria,0,1,0,1,BGN
+2000,Burkina Faso,326628,,Burkina Faso,2,Africa,202,Sub-Saharan Africa,11,Western Africa,,854,BF,BFA,1,1,,1,BUR,748,CFA FRANCS,Burkina Faso,Sovereign country,Burkina Faso,0,1,0,1,XOF
+2000,Burundi,31451,,Burundi,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,,108,BI,BDI,1,1,,1,BDI,618,BURUNDI FRANCS,Burundi,Sovereign country,Burundi,1,0,0,0,BIF
+2000,Cambodia,217667,,Cambodia,142,Asia,35,South-eastern Asia,,,,116,KH,KHM,1,,,1,CAM,522,RIEL,Cambodia,Sovereign country,Cambodia,0,1,0,1,KHR
+2000,Cameroon,547205,,Cameroon,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,,120,CM,CMR,,,,1,CMR,622,CFA FRANCS,Cameroon,Sovereign country,Cameroon,0,1,0,1,XAF
+2000,Canada,24499635,,Canada,19,Americas,21,Northern America,,,,124,CA,CAN,,,,1,CAN,156,CANADIAN DOLLARS,Canada,Sovereign country,Canada,0,1,1,0,CAD
+2000,Cape Verde,5009,Cabo Verde,Cabo Verde,2,Africa,202,Sub-Saharan Africa,11,Western Africa,,132,CV,CPV,,,1,1,CPV,624,ESCUDOS,Cabo Verde,Sovereign country,Cabo Verde,0,1,0,1,CVE
+2000,Cayman Is.,360,Cayman Islands,Cayman Islands,19,Americas,419,Latin America and the Caribbean,29,Caribbean,,136,KY,CYM,,,,0,CAY,,,,,,0,0,0,0,
+2000,Central African Republic,730428,,Central African Republic,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,,140,CF,CAF,1,1,,1,CAF,626,CFA FRANCS,Central African Republic,Sovereign country,Central African Republic,1,0,0,0,XAF
+2000,Chad,1543654,,Chad,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,,148,TD,TCD,1,1,,1,CHA,628,CFA FRANCS,Chad,Sovereign country,Chad,1,0,0,0,XAF
+2000,Chile,1142152,,Chile,19,Americas,419,Latin America and the Caribbean,5,South America,,152,CL,CHL,,,,1,CHI,228,CHILEAN PESOS,Chile,Sovereign country,Chile,0,1,1,0,CLP
+2000,China,13657467,,China,142,Asia,30,Eastern Asia,,,,156,CN,CHN,,,,1,CHN,924,YUAN,,,,0,1,1,0,CNY
+2000,Christmas I.,165,Christmas Island,Christmas Island,9,Oceania,53,Australia and New Zealand,,,,162,CX,CXR,,,,0,0,,,,,,0,0,0,0,
+2000,Clipperton Island (France),10,?,?,,,,,,,,,,,,,,0,,,,,,,0,0,0,0,
+2000,Cocos Is.,23,Cocos (Keeling) Islands,Cocos (Keeling) Islands,9,Oceania,53,Australia and New Zealand,,,,166,CC,CCK,,,,0,0,,,,,,0,0,0,0,
+2000,Colombia,1334978,,Colombia,19,Americas,419,Latin America and the Caribbean,5,South America,,170,CO,COL,,,,1,COL,233,COLOMBIAN PESOS,Colombia,Sovereign country,Colombia,0,1,0,1,COP
+2000,Comoros,2023,,Comoros,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,,174,KM,COM,1,,1,1,COM,632,COMORIAN FRANCS,Comoros,Sovereign country,Comoros,1,0,0,0,KMF
+2000,Congo,401676,,Congo,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,,178,CG,COG,,,,1,CGO,634,CFA FRANCS,Republic of the Congo,Sovereign country,Republic of the Congo,0,1,0,1,XOF
+2000,"Congo, DRC",2736620,Democratic Republic of the Congo,Democratic Republic of the Congo,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,,180,CD,COD,1,,,1,COD,636,CONGO FRANCS,Democratic Republic of the Congo,Sovereign country,Democratic Republic of the Congo,0,1,0,1,CDF
+2000,Cook Is.,320,Cook Islands,Cook Islands,9,Oceania,61,Polynesia,,,,184,CK,COK,,,1,0,COK,,,,,,0,0,0,0,
+2000,Coral Sea Islands (Australia),4,?,?,,,,,,,,,,,,,,0,,,,,,,0,0,0,0,
+2000,Costa Rica,60974,,Costa Rica,19,Americas,419,Latin America and the Caribbean,13,Central America,,188,CR,CRI,,,,1,CRC,238,COLONES,Costa Rica,Sovereign country,Costa Rica,0,1,0,1,CRC
+2000,Cote d'Ivoire,379749,,Cote d'Ivoire,2,Africa,202,Sub-Saharan Africa,11,Western Africa,,384,CI,CIV,,,,1,CIV,662,CFA FRANCS,Ivory Coast,Sovereign country,Ivory Coast,0,1,0,1,XOF
+2000,Croatia,93519,,Croatia,150,Europe,39,Southern Europe,,,,191,HR,HRV,,,,1,CRO,960,KUNAS,Croatia,Sovereign country,Croatia,0,1,0,1,HRK
+2000,Cuba,139691,,Cuba,19,Americas,419,Latin America and the Caribbean,29,Caribbean,,192,CU,CUB,,,1,1,CUB,,,,,,0,1,0,1,
+2000,Cyprus,12886,,Cyprus,142,Asia,145,Western Asia,,,,196,CY,CYP,,,,1,CYP,423,EUROS,Cyprus,Sovereign country,Cyprus,0,1,1,0,EUR
+2000,Czech Republic,141718,Czechia,Czechia,150,Europe,151,Eastern Europe,,,,203,CZ,CZE,,,,1,CZE,935,KORUNY,Czechia,Sovereign country,Czechia,0,1,1,0,CZK
+2000,Denmark,93410,,Denmark,150,Europe,154,Northern Europe,,,,208,DK,DNK,,,,1,DEN,128,KRONER,,,,0,1,1,0,DKK
+2000,Dhekelia (UK),189,?,?,,,,,,,,,,,,,,0,,,,,,,0,0,0,0,
+2000,Djibouti,25819,,Djibouti,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,,262,DJ,DJI,1,,,1,DJI,611,DJIBOUTI FRANCS,Djibouti,Sovereign country,Djibouti,1,0,0,0,DJF
+2000,Dominica,919,,Dominica,19,Americas,419,Latin America and the Caribbean,29,Caribbean,,212,DM,DMA,,,1,1,DMA,321,E.CARIBBEAN DOLLARS,Dominica,Sovereign country,Dominica,1,0,0,0,XCD
+2000,Dominican Republic,59696,,Dominican Republic,19,Americas,419,Latin America and the Caribbean,29,Caribbean,,214,DO,DOM,,,1,1,DOM,243,DOMINICAN PESOS,Dominican Republic,Sovereign country,Dominican Republic,0,1,0,1,DOP
+2000,Ecuador,299698,,Ecuador,19,Americas,419,Latin America and the Caribbean,5,South America,,218,EC,ECU,,,,1,ECU,248,U.S. DOLLARS,Ecuador,Sovereign country,Ecuador,0,1,0,1,USD
+2000,Egypt,1281488,,Egypt,2,Africa,15,Northern Africa,,,,818,EG,EGY,,,,1,EGY,469,EGYPTIAN POUNDS,Egypt,Sovereign country,Egypt,0,1,0,1,EGP
+2000,El Salvador,24957,,El Salvador,19,Americas,419,Latin America and the Caribbean,13,Central America,,222,SV,SLV,,,,1,ESA,253,COLONES,El Salvador,Sovereign country,El Salvador,0,1,0,1,CRC
+2000,Equatorial Guinea,31557,,Equatorial Guinea,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,,226,GQ,GNQ,,,,1,GEQ,642,CFA FRANCS,Equatorial Guinea,Sovereign country,Equatorial Guinea,1,0,0,0,XAF
+2000,Eritrea,146974,,Eritrea,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,,232,ER,ERI,1,,,1,ERI,643,NAKFA,Eritrea,Sovereign country,Eritrea,1,0,0,0,ERN
+2000,Estonia,101204,,Estonia,150,Europe,154,Northern Europe,,,,233,EE,EST,,,,1,EST,939,EUROS,Estonia,Sovereign country,Estonia,0,1,1,0,EUR
+2000,Ethiopia,1336871,,Ethiopia,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,,231,ET,ETH,1,1,,1,ETH,644,BIRR,Ethiopia,Sovereign country,Ethiopia,0,1,0,1,ETB
+2000,Falkland Is.,23259,Falkland Islands (Malvinas),Falkland Islands (Malvinas),19,Americas,419,Latin America and the Caribbean,5,South America,,238,FK,FLK,,,,0,0,,,,,,0,0,0,0,
+2000,Faroe Is.,3599,Faroe Islands,Faroe Islands,150,Europe,154,Northern Europe,,,,234,FO,FRO,,,,0,0,816,DANISH KRONER,,,,0,0,0,0,DKK
+2000,Fiji,23284,,Fiji,9,Oceania,54,Melanesia,,,,242,FJ,FJI,,,1,1,FIJ,819,FIJI DOLLARS,Fiji,Sovereign country,Fiji,0,1,0,1,FJD
+2000,Finland,910652,,Finland,150,Europe,154,Northern Europe,,,,246,FI,FIN,,,,1,FIN,172,EUROS,,,,0,1,1,0,EUR
+2000,France,928457,,France,150,Europe,155,Western Europe,,,,250,FR,FRA,,,,1,FRA,132,EUROS,,,,0,1,1,0,EUR
+2000,French Guiana,96757,,French Guiana,19,Americas,419,Latin America and the Caribbean,5,South America,,254,GF,GUF,,,,0,0,,,,,,0,0,0,0,
+2000,French Polynesia,4504,,French Polynesia,9,Oceania,61,Polynesia,,,,258,PF,PYF,,,1,0,0,887,CFP FRANCS,,,,0,0,0,0,XPF
+2000,French Southern & Antarctic Lands,13903,French Southern Territories,French Southern Territories,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,,260,TF,ATF,,,,0,0,,,,,,0,0,0,0,
+2000,Gabon,307648,,Gabon,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,,266,GA,GAB,,,,1,GAB,646,CFA FRANCS,Gabon,Sovereign country,Gabon,0,1,0,1,XAF
+2000,Georgia,109356,,Georgia,142,Asia,145,Western Asia,,,,268,GE,GEO,,,,1,GEO,915,LARI,Georgia,Sovereign country,Georgia,0,1,0,1,GEL
+2000,Germany,661605,,Germany,150,Europe,155,Western Europe,,,,276,DE,DEU,,,,1,GER,134,EUROS,Germany,Sovereign country,Germany,0,1,1,0,EUR
+2000,Ghana,282457,,Ghana,2,Africa,202,Sub-Saharan Africa,11,Western Africa,,288,GH,GHA,,,,1,GHA,652,CEDIS,Ghana,Sovereign country,Ghana,0,1,0,1,GHS
+2000,Gibraltar (UK),9,Gibraltar,Gibraltar,150,Europe,39,Southern Europe,,,,292,GI,GIB,,,,0,0,,,,,,0,0,0,0,
+2000,Greece,199291,,Greece,150,Europe,39,Southern Europe,,,,300,GR,GRC,,,,1,GRE,174,EUROS,Greece,Sovereign country,Greece,0,1,0,1,EUR
+2000,Greenland,9536063,,Greenland,19,Americas,21,Northern America,,,,304,GL,GRL,,,,0,0,,,,,,0,0,0,0,
+2000,Grenada,447,,Grenada,19,Americas,419,Latin America and the Caribbean,29,Caribbean,,308,GD,GRD,,,1,1,GRN,328,E.CARIBBEAN DOLLARS,Grenada,Sovereign country,Grenada,1,0,0,0,XCD
+2000,Guadeloupe,2034,,Guadeloupe,19,Americas,419,Latin America and the Caribbean,29,Caribbean,,312,GP,GLP,,,,0,0,,,,,,0,0,0,0,
+2000,Guam,670,,Guam,9,Oceania,57,Micronesia,,,,316,GU,GUM,,,1,0,GUM,,,,,,0,0,0,0,
+2000,Guatemala,132388,,Guatemala,19,Americas,419,Latin America and the Caribbean,13,Central America,,320,GT,GTM,,,,1,GUA,258,QUETZALES,Guatemala,Sovereign country,Guatemala,0,1,0,1,GTQ
+2000,Guernsey,151,,Guernsey,150,Europe,154,Northern Europe,,,,831,GG,GGY,,,,0,0,,,,,,0,0,0,0,
+2000,Guinea,291302,,Guinea,2,Africa,202,Sub-Saharan Africa,11,Western Africa,,324,GN,GIN,1,,,1,GUI,656,GUINEAN FRANCS,Guinea,Sovereign country,Guinea,1,0,0,0,GNF
+2000,Guinea-Bissau,40751,,Guinea-Bissau,2,Africa,202,Sub-Saharan Africa,11,Western Africa,,624,GW,GNB,1,,1,1,GBS,654,CFA FRANCS,Guinea-Bissau,Sovereign country,Guinea-Bissau,1,0,0,0,XOF
+2000,Guyana,247892,,Guyana,19,Americas,419,Latin America and the Caribbean,5,South America,,328,GY,GUY,,,1,1,GUY,336,GUYANA DOLLARS,Guyana,Sovereign country,Guyana,1,0,0,0,GYD
+2000,Haiti,33524,,Haiti,19,Americas,419,Latin America and the Caribbean,29,Caribbean,,332,HT,HTI,1,,1,1,HAI,263,GOURDES,Haiti,Sovereign country,Haiti,1,0,0,0,HTG
+2000,Heard I. & McDonald Is.,758,Heard Island and McDonald Islands,Heard Island and McDonald Islands,9,Oceania,53,Australia and New Zealand,,,,334,HM,HMD,,,,0,0,,,,,,0,0,0,0,
+2000,Honduras,135644,,Honduras,19,Americas,419,Latin America and the Caribbean,13,Central America,,340,HN,HND,,,,1,HON,268,LEMPIRAS,Honduras,Sovereign country,Honduras,0,1,0,1,HNL
+2000,Hong Kong (China),1377,"China, Hong Kong Special Administrative Region","China, Hong Kong Special Administrative Region",142,Asia,30,Eastern Asia,,,,344,HK,HKG,,,,0,HKG,532,HONG KONG DOLLARS,,,,0,0,0,0,HKD
+2000,Hungary,158918,,Hungary,150,Europe,151,Eastern Europe,,,,348,HU,HUN,,,,1,HUN,944,FORINT,Hungary,Sovereign country,Hungary,0,1,1,0,HUF
+2000,Iceland,281107,,Iceland,150,Europe,154,Northern Europe,,,,352,IS,ISL,,,,1,ISL,176,KRONUR,Iceland,Sovereign country,Iceland,0,1,1,0,ISK
+2000,In dispute Belize/Honduras,1,,In dispute Belize/Honduras,,,,,,,,,,,,,,0,,,,,,,0,0,0,0,
+2000,In dispute Benin/Burkina Faso,9,,In dispute Benin/Burkina Faso,,,,,,,,,,,,,,0,,,,,,,0,0,0,0,
+2000,In dispute Bhutan/China,1851,,In dispute Bhutan/China,,,,,,,,,,,,,,0,,,,,,,0,0,0,0,
+2000,In dispute Brazil/Uruguay,7,,In dispute Brazil/Uruguay,,,,,,,,,,,,,,0,,,,,,,0,0,0,0,
+2000,In dispute Canada/Denmark,11,,In dispute Canada/Denmark,,,,,,,,,,,,,,0,,,,,,,0,0,0,0,
+2000,In dispute China/India,49031,,In dispute China/India,,,,,,,,,,,,,,0,,,,,,,0,0,0,0,
+2000,In dispute China/Japan/Taiwan,11,,In dispute China/Japan/Taiwan,,,,,,,,,,,,,,0,,,,,,,0,0,0,0,
+2000,In dispute Croatia/Slovenia,2,,In dispute Croatia/Slovenia,,,,,,,,,,,,,,0,,,,,,,0,0,0,0,
+2000,In dispute Djibouti/Eritrea,1,,In dispute Djibouti/Eritrea,,,,,,,,,,,,,,0,,,,,,,0,0,0,0,
+2000,In dispute Egypt/Saudi Arabia,116,,In dispute Egypt/Saudi Arabia,,,,,,,,,,,,,,0,,,,,,,0,0,0,0,
+2000,In dispute India/Nepal,84,,In dispute India/Nepal,,,,,,,,,,,,,,0,,,,,,,0,0,0,0,
+2000,In dispute India/Pakistan,4000,,In dispute India/Pakistan,,,,,,,,,,,,,,0,,,,,,,0,0,0,0,
+2000,In dispute Iran/United Arab Emirates,38,,In dispute Iran/United Arab Emirates,,,,,,,,,,,,,,0,,,,,,,0,0,0,0,
+2000,In dispute Japan/Russia,8358,,In dispute Japan/Russia,,,,,,,,,,,,,,0,,,,,,,0,0,0,0,
+2000,In dispute South Sudan/Sudan,12334,,In dispute South Sudan/Sudan,,,,,,,,,,,,,,0,,,,,,,0,0,0,0,
+2000,In dispute Spratly Islands Brunei/China/Malaysia/Phillippines/Vietnam,30,,In dispute Spratly Islands Brunei/China/Malaysia/Phillippines/Vietnam,,,,,,,,,,,,,,0,,,,,,,0,0,0,0,
+2000,In dispute-Paracel Islands,19,,In dispute-Paracel Islands,,,,,,,,,,,,,,0,,,,,,,0,0,0,0,
+2000,India,4011047,,India,142,Asia,34,Southern Asia,,,,356,IN,IND,,,,1,IND,534,INDIAN RUPEES,India,Sovereign country,India,0,1,0,1,INR
+2000,Indonesia,2221397,,Indonesia,142,Asia,35,South-eastern Asia,,,,360,ID,IDN,,,,1,INA,536,RUPIAH,Indonesia,Sovereign country,Indonesia,0,1,0,1,IDR
+2000,Iran,2248097,Iran (Islamic Republic of),Iran (Islamic Republic of),142,Asia,34,Southern Asia,,,,364,IR,IRN,,,,1,IRI,429,RIALS,Iran,Sovereign country,Iran,0,1,0,1,IRR
+2000,Iraq,607867,,Iraq,142,Asia,145,Western Asia,,,,368,IQ,IRQ,,,,1,IRQ,433,DINARS,Iraq,Sovereign country,Iraq,0,1,0,1,IQD
+2000,Ireland,135965,,Ireland,150,Europe,154,Northern Europe,,,,372,IE,IRL,,,,1,IRL,178,EUROS,Ireland,Sovereign country,Ireland,0,1,1,0,EUR
+2000,Isle of Man,1159,,Isle of Man,150,Europe,154,Northern Europe,,,,833,IM,IMN,,,,0,0,,,,,,0,0,0,0,
+2000,Israel,28354,,Israel,142,Asia,145,Western Asia,,,,376,IL,ISR,,,,1,ISR,436,NEW SHEQALIM,,,,0,1,1,0,ILS
+2000,Italy,477622,,Italy,150,Europe,39,Southern Europe,,,,380,IT,ITA,,,,1,ITA,136,EUROS,Italy,Sovereign country,Italy,0,1,1,0,EUR
+2000,Jamaica,13530,,Jamaica,19,Americas,419,Latin America and the Caribbean,29,Caribbean,,388,JM,JAM,,,1,1,JAM,343,JAMAICA DOLLARS,Jamaica,Sovereign country,Jamaica,0,1,0,1,JMD
+2000,Jan Mayen,368613,Svalbard and Jan Mayen Islands,Svalbard and Jan Mayen Islands,150,Europe,154,Northern Europe,,,,744,SJ,SJM,,,,0,0,,,,,,0,0,0,0,
+2000,Jan Mayen (Norway),1330,Svalbard and Jan Mayen Islands,Svalbard and Jan Mayen Islands,150,Europe,154,Northern Europe,,,,744,SJ,SJM,,,,0,0,,,,,,0,0,0,0,
+2000,Japan,549365,,Japan,142,Asia,30,Eastern Asia,,,,392,JP,JPN,,,,1,JPN,158,YEN,Japan,Sovereign country,Japan,0,1,1,0,JPY
+2000,Jarvis I.,11,?,?,,,,,,,,,,,,,,0,,,,,,,0,0,0,0,
+2000,Jersey,219,,Jersey,150,Europe,154,Northern Europe,,,,832,JE,JEY,,,,0,0,,,,,,0,0,0,0,
+2000,Jordan,121522,,Jordan,142,Asia,145,Western Asia,,,,400,JO,JOR,,,,1,JOR,439,JORDANIAN DINARS,Jordan,Sovereign country,Jordan,0,1,0,1,JOD
+2000,Kazakhstan,4753265,,Kazakhstan,142,Asia,143,Central Asia,,,,398,KZ,KAZ,,1,,1,KAZ,916,TENGE,,,,0,1,0,1,KZT
+2000,Kenya,685925,,Kenya,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,,404,KE,KEN,,,,1,KEN,664,KENYA SHILLINGS,Kenya,Sovereign country,Kenya,0,1,0,1,KES
+2000,Kiribati,1214,,Kiribati,9,Oceania,57,Micronesia,,,,296,KI,KIR,1,,1,1,KIR,826,AUSTRALIAN DOLLARS,Kiribati,Sovereign country,Kiribati,1,0,0,0,AUD
+2000,Korean islands under UN jurisdiction,118,,Korean islands under UN jurisdiction,,,,,,,,,,,,,,0,,,,,,,0,0,0,0,
+2000,Kosovo,17202,?,?,,,,,,,,,,,,,,0,,967,EUROS,,,,0,0,0,0,EUR
+2000,Kuwait,23220,,Kuwait,142,Asia,145,Western Asia,,,,414,KW,KWT,,,,1,KUW,443,KUWAITI DINARS,Kuwait,Sovereign country,Kuwait,0,1,1,0,KWD
+2000,Kyrgyzstan,307820,,Kyrgyzstan,142,Asia,143,Central Asia,,,,417,KG,KGZ,,1,,1,KGZ,917,SOMS,Kyrgyzstan,Sovereign country,Kyrgyzstan,0,1,0,1,KGS
+2000,Laos,283541,Lao People's Democratic Republic,Lao People's Democratic Republic,142,Asia,35,South-eastern Asia,,,,418,LA,LAO,1,1,,1,LAO,544,KIP,Laos,Sovereign country,Laos,0,1,0,1,LAK
+2000,Latvia,136940,,Latvia,150,Europe,154,Northern Europe,,,,428,LV,LVA,,,,1,LAT,941,LATS,Latvia,Sovereign country,Latvia,0,1,1,0,LVL
+2000,Lebanon,14360,,Lebanon,142,Asia,145,Western Asia,,,,422,LB,LBN,,,,1,LBN,446,LEBANESE POUNDS,Lebanon,Sovereign country,Lebanon,0,1,0,1,LBP
+2000,Lesotho,40980,,Lesotho,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,,426,LS,LSO,1,1,,1,LES,666,MALOTI,Lesotho,Sovereign country,Lesotho,0,1,0,1,LSL
+2000,Liberia,112940,,Liberia,2,Africa,202,Sub-Saharan Africa,11,Western Africa,,430,LR,LBR,1,,,1,LBR,668,LIBERIAN DOLLARS,Liberia,Sovereign country,Liberia,1,0,0,0,LRD
+2000,Libya,2118058,,Libya,2,Africa,15,Northern Africa,,,,434,LY,LBY,,,,1,LBA,672,LIBYAN DINARS,Libya,Sovereign country,Libya,0,1,0,1,LYD
+2000,Liechtenstein,273,,Liechtenstein,150,Europe,155,Western Europe,,,,438,LI,LIE,,,,1,LIE,,,Liechtenstein,Sovereign country,Liechtenstein,0,1,1,0,
+2000,Lithuania,132350,,Lithuania,150,Europe,154,Northern Europe,,,,440,LT,LTU,,,,1,LTU,946,LITAI,Lithuania,Sovereign country,Lithuania,0,1,1,0,LTL
+2000,Luxembourg,4655,,Luxembourg,150,Europe,155,Western Europe,,,,442,LU,LUX,,,,1,LUX,137,EUROS,Luxembourg,Sovereign country,Luxembourg,0,1,1,0,EUR
+2000,Macau (China),35,"China, Macao Special Administrative Region","China, Macao Special Administrative Region",142,Asia,30,Eastern Asia,,,,446,MO,MAC,,,,0,0,546,PATACAS,,,,0,0,0,0,MOP
+2000,Macedonia,39566,North Macedonia,North Macedonia,150,Europe,39,Southern Europe,,,,807,MK,MKD,,1,,1,MKD,962,DENARS,North Macedonia,Sovereign country,North Macedonia,1,0,0,0,MKD
+2000,Madagascar,733710,,Madagascar,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,,450,MG,MDG,1,,,1,MAD,674,MALAGASY ARIARY,Madagascar,Sovereign country,Madagascar,0,1,0,1,MGA
+2000,Malawi,142799,,Malawi,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,,454,MW,MWI,1,1,,1,MAW,676,KWACHA,Malawi,Sovereign country,Malawi,1,0,0,0,MWK
+2000,Malaysia,386797,,Malaysia,142,Asia,35,South-eastern Asia,,,,458,MY,MYS,,,,1,MAS,548,RINGGIT,Malaysia,Sovereign country,Malaysia,0,1,1,0,MYR
+2000,Maldives,339,,Maldives,142,Asia,34,Southern Asia,,,,462,MV,MDV,,,1,1,MDV,556,RUFIYAA,Maldives,Sovereign country,Maldives,0,1,0,1,MVR
+2000,Mali,1535801,,Mali,2,Africa,202,Sub-Saharan Africa,11,Western Africa,,466,ML,MLI,1,1,,1,MLI,678,CFA FRANCS,Mali,Sovereign country,Mali,0,1,0,1,XOF
+2000,Malta,468,,Malta,150,Europe,39,Southern Europe,,,,470,MT,MLT,,,,1,MLT,181,EUROS,Malta,Sovereign country,Malta,0,1,1,0,EUR
+2000,Marshall Is.,308,Marshall Islands,Marshall Islands,9,Oceania,57,Micronesia,,,,584,MH,MHL,,,1,1,MHL,867,,Marshall Islands,Sovereign country,Marshall Islands,1,0,0,0,
+2000,Martinique,1380,,Martinique,19,Americas,419,Latin America and the Caribbean,29,Caribbean,,474,MQ,MTQ,,,,0,0,,,,,,0,0,0,0,
+2000,Mauritania,1292783,,Mauritania,2,Africa,202,Sub-Saharan Africa,11,Western Africa,,478,MR,MRT,1,,,1,MTN,682,OUGUIYAS,Mauritania,Sovereign country,Mauritania,1,0,0,0,MRU
+2000,Mauritius,2523,,Mauritius,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,,480,MU,MUS,,,1,1,MRI,684,MAURITIAN RUPEES,Mauritius,Sovereign country,Mauritius,0,1,1,0,MUR
+2000,Mayotte,464,,Mayotte,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,,175,YT,MYT,,,,0,0,,,,,,0,0,0,0,
+2000,Mexico,2507260,,Mexico,19,Americas,419,Latin America and the Caribbean,13,Central America,,484,MX,MEX,,,,1,MEX,273,MEXICAN PESOS,Mexico,Sovereign country,Mexico,0,1,1,0,MXN
+2000,Micronesia,957,Micronesia (Federated States of),Micronesia (Federated States of),9,Oceania,57,Micronesia,,,,583,FM,FSM,,,1,1,FSM,,,Federated States of Micronesia,Sovereign country,Federated States of Micronesia,1,0,0,0,
+2000,Moldova,57775,Republic of Moldova,Republic of Moldova,150,Europe,151,Eastern Europe,,,,498,MD,MDA,,1,,1,MDA,921,LEI,Moldova,Sovereign country,Moldova,0,1,0,1,RON
+2000,Monaco,3,,Monaco,150,Europe,155,Western Europe,,,,492,MC,MCO,,,,1,MON,,,Monaco,Sovereign country,Monaco,1,0,0,0,
+2000,Mongolia,2659192,,Mongolia,142,Asia,30,Eastern Asia,,,,496,MN,MNG,,1,,1,MGL,948,TOGROGS,Mongolia,Sovereign country,Mongolia,0,1,0,1,MNT
+2000,Montenegro,22063,,Montenegro,150,Europe,39,Southern Europe,,,,499,ME,MNE,,,,1,MNE,943,Euros,Montenegro,Sovereign country,Montenegro,0,1,0,1,
+2000,Montserrat,122,,Montserrat,19,Americas,419,Latin America and the Caribbean,29,Caribbean,,500,MS,MSR,,,1,0,0,351,E.CARIBBEAN DOLLARS,,,,0,0,0,0,XCD
+2000,Morocco,568784,,Morocco,2,Africa,15,Northern Africa,,,,504,MA,MAR,,,,1,MAR,686,DIRHAMS,Morocco,Sovereign country,Morocco,0,1,0,1,MAD
+2000,Mozambique,964597,,Mozambique,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,,508,MZ,MOZ,1,,,1,MOZ,688,METICAIS,Mozambique,Sovereign country,Mozambique,0,1,0,1,MZN
+2000,Myanmar,838965,,Myanmar,142,Asia,35,South-eastern Asia,,,,104,MM,MMR,1,,,1,MYA,518,KYATS,Myanmar,Sovereign country,Myanmar,1,0,0,0,MMK
+2000,Namibia,1040344,,Namibia,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,,516,,NAM,,,,1,NAM,728,NAMIBIA DOLLARS,Namibia,Sovereign country,Namibia,0,1,0,1,NAD
+2000,Nauru,30,,Nauru,9,Oceania,57,Micronesia,,,,520,NR,NRU,,,1,1,NRU,,,Nauru,Sovereign country,Nauru,1,0,0,0,
+2000,Navassa Island (US),5,?,?,,,,,,,,,,,,,,0,,,,,,,0,0,0,0,
+2000,Nepal,195890,,Nepal,142,Asia,34,Southern Asia,,,,524,NP,NPL,1,1,,1,NEP,558,NEPALESE RUPEES,Nepal,Sovereign country,Nepal,1,0,0,0,NPR
+2000,Netherlands,66768,Netherlands (Kingdom of the),Netherlands (Kingdom of the),150,Europe,155,Western Europe,,,,528,NL,NLD,,,,1,NED,138,EUROS,,,,0,1,1,0,EUR
+2000,Netherlands Antilles,540,Curacao,Curacao,19,Americas,419,Latin America and the Caribbean,29,Caribbean,,531,CW,CUW,,,1,0,0,353,GUILDERS,,,,0,0,0,0,ANG
+2000,New Caledonia,23690,,New Caledonia,9,Oceania,54,Melanesia,,,,540,NC,NCL,,,1,0,0,839,CFP FRANCS,,,,0,0,0,0,XPF
+2000,New Zealand,421153,,New Zealand,9,Oceania,53,Australia and New Zealand,,,,554,NZ,NZL,,,,1,NZL,196,NEW ZEALAND DOLLARS,,,,0,1,1,0,NZD
+2000,Nicaragua,154162,,Nicaragua,19,Americas,419,Latin America and the Caribbean,13,Central America,,558,NI,NIC,,,,1,NCA,278,CORDOBAS,Nicaragua,Sovereign country,Nicaragua,0,1,0,1,NIO
+2000,Niger,1446634,,Niger,2,Africa,202,Sub-Saharan Africa,11,Western Africa,,562,NE,NER,1,1,,1,NIG,692,CFA FRANCS,Niger,Sovereign country,Niger,0,1,0,1,XOF
+2000,Nigeria,1078982,,Nigeria,2,Africa,202,Sub-Saharan Africa,11,Western Africa,,566,NG,NGA,,,,1,NGR,694,NAIRA,Nigeria,Sovereign country,Nigeria,0,1,0,1,NGN
+2000,Niue,332,,Niue,9,Oceania,61,Polynesia,,,,570,NU,NIU,,,1,0,0,,,,,,0,0,0,0,
+2000,No Man's Land-ISRAEL/West Bank,76,,No Man's Land-ISRAEL/West Bank,,,,,,,,,,,,,,0,,,,,,,0,0,0,0,
+2000,Norfolk Islands,56,Norfolk Island,Norfolk Island,9,Oceania,53,Australia and New Zealand,,,,574,NF,NFK,,,,0,0,,,,,,0,0,0,0,
+2000,North Korea,186197,Democratic People's Republic of Korea,Democratic People's Republic of Korea,142,Asia,30,Eastern Asia,,,,408,KP,PRK,,,,1,PRK,,,North Korea,Sovereign country,North Korea,1,0,0,0,
+2000,Northern Mariana Is.,596,Northern Mariana Islands,Northern Mariana Islands,9,Oceania,57,Micronesia,,,,580,MP,MNP,,,1,0,0,,,,,,0,0,0,0,
+2000,Norway,878625,,Norway,150,Europe,154,Northern Europe,,,,578,NO,NOR,,,,1,NOR,142,NORWEGIAN KRONER,Norway,Sovereign country,Norway,0,1,1,0,NOK
+2000,Oman,384985,,Oman,142,Asia,145,Western Asia,,,,512,OM,OMN,,,,1,OMA,449,RIALS OMANI,Oman,Sovereign country,Oman,0,1,1,0,OMR
+2000,Pakistan,1176547,,Pakistan,142,Asia,34,Southern Asia,,,,586,PK,PAK,,,,1,PAK,564,PAKISTAN RUPEES,Pakistan,Sovereign country,Pakistan,0,1,0,1,PKR
+2000,Palau,578,,Palau,9,Oceania,57,Micronesia,,,,585,PW,PLW,,,1,1,PLW,,,Palau,Sovereign country,Palau,1,0,0,0,
+2000,Palestine Territories: Gaza Strip,498,State of Palestine,State of Palestine,142,Asia,145,Western Asia,,,,275,PS,PSE,,,,0,PLE,,,,,,0,0,0,0,
+2000,Panama,89206,,Panama,19,Americas,419,Latin America and the Caribbean,13,Central America,,591,PA,PAN,,,,1,PAN,283,BALBOAS,Panama,Sovereign country,Panama,0,1,0,1,PAB
+2000,Papua New Guinea,546026,,Papua New Guinea,9,Oceania,54,Melanesia,,,,598,PG,PNG,,,1,1,PNG,853,KINA,Papua New Guinea,Sovereign country,Papua New Guinea,0,1,0,1,PGK
+2000,Paraguay,507989,,Paraguay,19,Americas,419,Latin America and the Caribbean,5,South America,,600,PY,PRY,,1,,1,PAR,288,GUARANIES,Paraguay,Sovereign country,Paraguay,0,1,0,1,PYG
+2000,Peru,1535045,,Peru,19,Americas,419,Latin America and the Caribbean,5,South America,,604,PE,PER,,,,1,PER,293,NUEVOS SOLES,Peru,Sovereign country,Peru,0,1,0,1,PEN
+2000,Philippines,355224,,Philippines,142,Asia,35,South-eastern Asia,,,,608,PH,PHL,,,,1,PHI,566,PHILIPPINE PESOS,Philippines,Sovereign country,Philippines,0,1,0,1,PHP
+2000,Pitcairn Is.,57,Pitcairn,Pitcairn,9,Oceania,61,Polynesia,,,,612,PN,PCN,,,,0,0,,,,,,0,0,0,0,
+2000,Poland,589681,,Poland,150,Europe,151,Eastern Europe,,,,616,PL,POL,,,,1,POL,964,ZLOTYS,Poland,Sovereign country,Poland,0,1,1,0,PLN
+2000,Portugal,139138,,Portugal,150,Europe,39,Southern Europe,,,,620,PT,PRT,,,,1,POR,182,EUROS,Portugal,Sovereign country,Portugal,0,1,1,0,EUR
+2000,Puerto Rico,11065,,Puerto Rico,19,Americas,419,Latin America and the Caribbean,29,Caribbean,,630,PR,PRI,,,1,0,PUR,,,,,,0,0,0,0,
+2000,Qatar,14908,,Qatar,142,Asia,145,Western Asia,,,,634,QA,QAT,,,,1,QAT,453,QATAR RIYALS,Qatar,Sovereign country,Qatar,0,1,1,0,QAR
+2000,Reunion,3162,,Reunion,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,,638,RE,REU,,,,0,0,,,,,,0,0,0,0,
+2000,Romania,396599,,Romania,150,Europe,151,Eastern Europe,,,,642,RO,ROU,,,,1,ROU,968,LEI,Romania,Sovereign country,Romania,0,1,0,1,RON
+2000,Russia,42124012,Russian Federation,Russian Federation,150,Europe,151,Eastern Europe,,,,643,RU,RUS,,,,1,RUS,922,RUSSIAN RUBLES,Russia,Sovereign country,Russia,0,1,0,1,RUB
+2000,Rwanda,29594,,Rwanda,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,,646,RW,RWA,1,1,,1,RWA,714,RWANDA FRANCS,Rwanda,Sovereign country,Rwanda,0,1,0,1,RWF
+2000,Saba (Neth),16,"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba",19,Americas,419,Latin America and the Caribbean,29,Caribbean,,535,BQ,BES,,,1,0,0,,,,,,0,0,0,0,
+2000,Saint Barthelemy (France),34,Saint Barthelemy,Saint Barthelemy,19,Americas,419,Latin America and the Caribbean,29,Caribbean,,652,BL,BLM,,,,0,0,,,,,,0,0,0,0,
+2000,Saint Martin (France),69,Saint Martin (French Part),Saint Martin (French Part),19,Americas,419,Latin America and the Caribbean,29,Caribbean,,663,MF,MAF,,,,0,0,,,,,,0,0,0,0,
+2000,Samoa,3466,,Samoa,9,Oceania,61,Polynesia,,,,882,WS,WSM,,,1,1,SAM,,,Samoa,Sovereign country,Samoa,1,0,0,0,
+2000,San Marino,97,,San Marino,150,Europe,39,Southern Europe,,,,674,SM,SMR,,,,1,SMR,,,San Marino,Sovereign country,San Marino,0,1,1,0,
+2000,Sao Tome & Principe,1148,Sao Tome and Principe,Sao Tome and Principe,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,,678,ST,STP,1,,1,1,STP,716,DOBRAS,São Tomé and Principe,Sovereign country,São Tomé and Principe,1,0,0,0,STN
+2000,Saudi Arabia,2468227,,Saudi Arabia,142,Asia,145,Western Asia,,,,682,SA,SAU,,,,1,KSA,456,SAUDI ARABIAN RIYALS,Saudi Arabia,Sovereign country,Saudi Arabia,0,1,1,0,SAR
+2000,Senegal,237092,,Senegal,2,Africa,202,Sub-Saharan Africa,11,Western Africa,,686,SN,SEN,1,,,1,SEN,722,CFA FRANCS,Senegal,Sovereign country,Senegal,0,1,0,1,XOF
+2000,Serbia,125660,,Serbia,150,Europe,39,Southern Europe,,,,688,RS,SRB,,,,1,SRB,942,SERBIAN DINARS,Republic of Serbia,Sovereign country,Republic of Serbia,0,1,0,1,RSD
+2000,Seychelles,562,,Seychelles,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,,690,SC,SYC,,,1,1,SEY,718,SEYCHELLES RUPEES,Seychelles,Sovereign country,Seychelles,0,1,0,1,SCR
+2000,Sierra Leone,85714,,Sierra Leone,2,Africa,202,Sub-Saharan Africa,11,Western Africa,,694,SL,SLE,1,,,1,SLE,724,LEONES,Sierra Leone,Sovereign country,Sierra Leone,1,0,0,0,SLL
+2000,Singapore,700,,Singapore,142,Asia,35,South-eastern Asia,,,,702,SG,SGP,,,1,1,SGP,576,SINGAPORE DOLLARS,Singapore,Sovereign country,Singapore,0,1,1,0,SGD
+2000,Sint Eustatius (Neth),28,"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba",19,Americas,419,Latin America and the Caribbean,29,Caribbean,,535,BQ,BES,,,1,0,0,,,,,,0,0,0,0,
+2000,Sint Maarten (Neth),49,Sint Maarten (Dutch part),Sint Maarten (Dutch part),19,Americas,419,Latin America and the Caribbean,29,Caribbean,,534,SX,SXM,,,1,0,0,,,,,,0,0,0,0,
+2000,Slovakia,86228,,Slovakia,150,Europe,151,Eastern Europe,,,,703,SK,SVK,,,,1,SVK,936,EUROS,Slovakia,Sovereign country,Slovakia,0,1,1,0,EUR
+2000,Slovenia,33980,,Slovenia,150,Europe,39,Southern Europe,,,,705,SI,SVN,,,,1,SLO,961,EUROS,Slovenia,Sovereign country,Slovenia,0,1,1,0,EUR
+2000,Solomon Is.,34313,Solomon Islands,Solomon Islands,9,Oceania,54,Melanesia,,,,90,SB,SLB,1,,1,1,SOL,813,SOLOMON ISL DOLLARS,Solomon Islands,Sovereign country,Solomon Islands,0,1,0,1,SBD
+2000,Somalia,746860,,Somalia,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,,706,SO,SOM,1,,,1,SOM,726,SOMALI SHILLINGS,Somalia,Sovereign country,Somalia,1,0,0,0,SOS
+2000,South Africa,1628004,,South Africa,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,,710,ZA,ZAF,,,,1,RSA,199,RAND,South Africa,Sovereign country,South Africa,0,1,1,0,ZAR
+2000,South Georgia & the South Sandwich Is.,7996,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,19,Americas,419,Latin America and the Caribbean,5,South America,,239,GS,SGS,,,,0,0,,,,,,0,0,0,0,
+2000,South Korea,143797,Republic of Korea,Republic of Korea,142,Asia,30,Eastern Asia,,,,410,KR,KOR,,,,1,KOR,542,WON,South Korea,Sovereign country,South Korea,0,1,1,0,KRW
+2000,South Sudan,757977,,South Sudan,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,,728,SS,SSD,1,1,,1,0,733,,,,,1,0,0,0,
+2000,Spain,772054,,Spain,150,Europe,39,Southern Europe,,,,724,ES,ESP,,,,1,ESP,184,EUROS,Spain,Sovereign country,Spain,0,1,1,0,EUR
+2000,Sri Lanka,78133,,Sri Lanka,142,Asia,34,Southern Asia,,,,144,LK,LKA,,,,1,SRI,524,SRI LANKA RUPEES,Sri Lanka,Sovereign country,Sri Lanka,0,1,0,1,LKR
+2000,St. Helena,590,Saint Helena,Saint Helena,2,Africa,202,Sub-Saharan Africa,11,Western Africa,,654,SH,SHN,,,,0,0,,,,,,0,0,0,0,
+2000,St. Kitts & Nevis,331,Saint Kitts and Nevis,Saint Kitts and Nevis,19,Americas,419,Latin America and the Caribbean,29,Caribbean,,659,KN,KNA,,,1,1,SKN,361,E.CARIBBEAN DOLLARS,Saint Kitts and Nevis,Sovereign country,Saint Kitts and Nevis,1,0,0,0,XCD
+2000,St. Lucia,746,Saint Lucia,Saint Lucia,19,Americas,419,Latin America and the Caribbean,29,Caribbean,,662,LC,LCA,,,1,1,LCA,362,E.CARIBBEAN DOLLARS,Saint Lucia,Sovereign country,Saint Lucia,1,0,0,0,XCD
+2000,St. Pierre & Miquelon,404,Saint Pierre and Miquelon,Saint Pierre and Miquelon,19,Americas,21,Northern America,,,,666,PM,SPM,,,,0,0,,,,,,0,0,0,0,
+2000,St. Vincent & the Grenadines,486,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,19,Americas,419,Latin America and the Caribbean,29,Caribbean,,670,VC,VCT,,,1,1,VIN,364,E.CARIBBEAN DOLLARS,Saint Vincent and the Grenadines,Sovereign country,Saint Vincent and the Grenadines,0,1,0,1,XCD
+2000,Sudan,2253698,,Sudan,2,Africa,15,Northern Africa,,,,729,SD,SDN,1,,,1,SUD,732,SUDANESE POUNDS,Sudan,Sovereign country,Sudan,1,0,0,0,SDG
+2000,Suriname,171039,,Suriname,19,Americas,419,Latin America and the Caribbean,5,South America,,740,SR,SUR,,,1,1,SUR,366,SURINAME DOLLAR,Suriname,Sovereign country,Suriname,0,1,0,1,SRD
+2000,Swaziland,22636,Eswatini,Eswatini,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,,748,SZ,SWZ,,1,,1,SWZ,734,EMALANGENI,eSwatini,Sovereign country,eSwatini,0,1,0,1,SZL
+2000,Sweden,1143643,,Sweden,150,Europe,154,Northern Europe,,,,752,SE,SWE,,,,1,SWE,144,SWEDISH KRONOR,Sweden,Sovereign country,Sweden,0,1,1,0,SEK
+2000,Switzerland,70054,,Switzerland,150,Europe,155,Western Europe,,,,756,CH,CHE,,,,1,SUI,146,SWISS FRANCS,Switzerland,Sovereign country,Switzerland,0,1,1,0,CHF
+2000,Syria,266789,Syrian Arab Republic,Syrian Arab Republic,142,Asia,145,Western Asia,,,,760,SY,SYR,,,,1,SYR,463,SYRIAN POUNDS,Syria,Sovereign country,Syria,1,0,0,0,SYP
+2000,Taiwan,46278,?,?,,,,,,,,,,TWN,,,,0,,,,,,,0,0,0,0,
+2000,Tajikistan,210301,,Tajikistan,142,Asia,143,Central Asia,,,,762,TJ,TJK,,1,,1,TJK,923,TAJIK SOMONI,Tajikistan,Sovereign country,Tajikistan,0,1,0,1,TJS
+2000,Tanzania,1107417,United Republic of Tanzania,United Republic of Tanzania,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,,834,TZ,TZA,1,,,1,TAN,738,TANZANIA SHILLINGS,United Republic of Tanzania,Sovereign country,United Republic of Tanzania,0,1,0,1,TZS
+2000,Thailand,624504,,Thailand,142,Asia,35,South-eastern Asia,,,,764,TH,THA,,,,1,THA,578,BAHT,Thailand,Sovereign country,Thailand,0,1,1,0,THB
+2000,The Bahamas,17121,Bahamas,Bahamas,19,Americas,419,Latin America and the Caribbean,29,Caribbean,,44,BS,BHS,,,1,1,BAH,313,BAHAMIAN DOLLARS,The Bahamas,Sovereign country,The Bahamas,0,1,1,0,BSD
+2000,The Gambia,12828,Gambia,Gambia,2,Africa,202,Sub-Saharan Africa,11,Western Africa,,270,GM,GMB,1,,,1,GAM,648,DALASIS,Gambia,Sovereign country,Gambia,1,0,0,0,GMD
+2000,Timor Leste,17684,Timor-Leste,Timor-Leste,142,Asia,35,South-eastern Asia,,,,626,TL,TLS,1,,1,1,TLS,537,U.S. DOLLARS,East Timor,Sovereign country,East Timor,1,0,0,0,USD
+2000,Togo,67226,,Togo,2,Africa,202,Sub-Saharan Africa,11,Western Africa,,768,TG,TGO,1,,,1,TOG,742,CFA FRANCS,Togo,Sovereign country,Togo,0,1,0,1,XOF
+2000,Tokelau,16,,Tokelau,9,Oceania,61,Polynesia,,,,772,TK,TKL,,,,0,0,,,,,,0,0,0,0,
+2000,Tonga,938,,Tonga,9,Oceania,61,Polynesia,,,,776,TO,TON,,,1,1,TGA,866,PA'ANGA,Tonga,Sovereign country,Tonga,1,0,0,0,TOP
+2000,Trinidad & Tobago,6169,Trinidad and Tobago,Trinidad and Tobago,19,Americas,419,Latin America and the Caribbean,29,Caribbean,,780,TT,TTO,,,1,1,TTO,369,TT DOLLARS,Trinidad and Tobago,Sovereign country,Trinidad and Tobago,0,1,1,0,TTD
+2000,Tunisia,218820,,Tunisia,2,Africa,15,Northern Africa,,,,788,TN,TUN,,,,1,TUN,744,TUNISIAN DINARS,Tunisia,Sovereign country,Tunisia,0,1,0,1,TND
+2000,Turkey,1170398,,Turkey,142,Asia,145,Western Asia,,,,792,TR,TUR,,,,1,TUR,186,NEW LIRAS,Turkey,Sovereign country,Turkey,0,1,0,1,TRY
+2000,Turkmenistan,735072,,Turkmenistan,142,Asia,143,Central Asia,,,,795,TM,TKM,,1,,1,TKM,925,MANAT,Turkmenistan,Sovereign country,Turkmenistan,0,1,0,1,AZN
+2000,Turks & Caicos Is.,1272,Turks and Caicos Islands,Turks and Caicos Islands,19,Americas,419,Latin America and the Caribbean,29,Caribbean,,796,TC,TCA,,,,0,0,,,,,,0,0,0,0,
+2000,Tuvalu,50,,Tuvalu,9,Oceania,61,Polynesia,,,,798,TV,TUV,1,,1,1,TUV,,,Tuvalu,Sovereign country,Tuvalu,1,0,0,0,
+2000,Uganda,282551,,Uganda,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,,800,UG,UGA,1,1,,1,UGA,746,UGANDA SHILLINGS,Uganda,Sovereign country,Uganda,0,1,0,1,UGX
+2000,Ukraine,1060657,,Ukraine,150,Europe,151,Eastern Europe,,,,804,UA,UKR,,,,1,UKR,926,HRYVNIAS,Ukraine,Sovereign country,Ukraine,0,1,0,1,UAH
+2000,United Arab Emirates,90338,,United Arab Emirates,142,Asia,145,Western Asia,,,,784,AE,ARE,,,,1,UAE,466,,United Arab Emirates,Sovereign country,United Arab Emirates,0,1,1,0,AED
+2000,United Kingdom,487055,United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,150,Europe,154,Northern Europe,,,,826,GB,GBR,,,,1,GBR,112,POUNDS STERLING,,,,0,1,1,0,GBP
+2000,United States,16107991,United States of America,United States of America,19,Americas,21,Northern America,,,,840,US,USA,,,,1,USA,111,U.S. DOLLARS,,,,0,1,1,0,USD
+2000,Uruguay,246432,,Uruguay,19,Americas,419,Latin America and the Caribbean,5,South America,,858,UY,URY,,,,1,URU,298,URUGUAYAN PESOS,Uruguay,Sovereign country,Uruguay,0,1,0,1,UYU
+2000,Uzbekistan,700379,,Uzbekistan,142,Asia,143,Central Asia,,,,860,UZ,UZB,,1,,1,UZB,927,,Uzbekistan,Sovereign country,Uzbekistan,0,1,0,1,
+2000,Vanuatu,15234,,Vanuatu,9,Oceania,54,Melanesia,,,,548,VU,VUT,,,1,1,VAN,846,VATU,Vanuatu,Sovereign country,Vanuatu,1,0,0,0,VUV
+2000,Vatican City,1,?,?,,,,,,,,,,,,,,0,,,,,,,0,0,0,0,
+2000,Venezuela,1076575,Venezuela (Bolivarian Republic of),Venezuela (Bolivarian Republic of),19,Americas,419,Latin America and the Caribbean,5,South America,,862,VE,VEN,,,,1,VEN,299,BOLIVARES,Venezuela,Sovereign country,Venezuela,0,1,0,1,VES
+2000,Vietnam,401555,Viet Nam,Viet Nam,142,Asia,35,South-eastern Asia,,,,704,VN,VNM,,,,1,VIE,582,DONG,Vietnam,Sovereign country,Vietnam,0,1,0,1,VND
+2000,Virgin Is.,458,United States Virgin Islands,United States Virgin Islands,19,Americas,419,Latin America and the Caribbean,29,Caribbean,,850,VI,VIR,,,1,0,ISV,,,,,,0,0,0,0,
+2000,Wallis & Futuna,214,Wallis and Futuna Islands,Wallis and Futuna Islands,9,Oceania,61,Polynesia,,,,876,WF,WLF,,,,0,0,,,,,,0,0,0,0,
+2000,Western Sahara,346533,,Western Sahara,2,Africa,15,Northern Africa,,,,732,EH,ESH,,,,0,0,,,,,,0,0,0,0,
+2000,Yemen,551170,,Yemen,142,Asia,145,Western Asia,,,,887,YE,YEM,1,,,1,YEM,474,YEMENI RIAL,Yemen,Sovereign country,Yemen,1,0,0,0,YER
+2000,Zambia,903523,,Zambia,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,,894,ZM,ZMB,1,1,,1,ZAM,754,ZAMBIAN KWACHA,Zambia,Sovereign country,Zambia,0,1,0,1,ZMW
+2000,Zimbabwe,482945,,Zimbabwe,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,,716,ZW,ZWE,,1,,1,ZIM,698,ZIMBABWE DOLLARS,Zimbabwe,Sovereign country,Zimbabwe,1,0,0,0,ZWL

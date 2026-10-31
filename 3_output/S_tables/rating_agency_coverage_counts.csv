@@ -1,0 +1,14 @@
+label,total,sids,ts,cat1,cat3,warm,first2000
+S&P - Total (ever-rated),129,11,45,37,22,112,47.0
+S&P - IG,61,1,19,15,8,51,4.0
+S&P - SG,65,9,25,21,13,59,40.0
+Moody's - Total (ever-rated),136,14,48,40,23,116,46.0
+Moody's - IG,58,2,20,15,9,48,2.0
+Moody's - SG,76,12,27,24,14,67,42.0
+Fitch - Total (ever-rated),118,7,38,30,15,102,61.0
+Fitch - IG,57,0,18,14,7,48,10.0
+Fitch - SG,56,6,18,14,7,51,46.0
+Any agency - Total (ever-rated),147,16,52,41,24,126,51.0
+Any agency - IG,65,3,22,17,10,54,3.0
+Any agency - SG,80,13,29,23,14,71,46.0
+Non-rated,48,20,24,17,11,32,

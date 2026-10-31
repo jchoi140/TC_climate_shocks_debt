@@ -1,0 +1,11 @@
+Coupon panel: outcome = Cpn (%, bond-level at issuance, maturity == 10), currency_issued FE.
+
+All (115 ISOs):
+  ['AGO', 'ALB', 'AND', 'ARE', 'ARG', 'ARM', 'ATG', 'AUS', 'AUT', 'AZE', 'BEL', 'BGD', 'BGR', 'BHR', 'BHS', 'BLR', 'BLZ', 'BOL', 'BRA', 'BRB', 'CAN', 'CHE', 'CHL', 'CHN', 'CIV', 'CMR', 'COL', 'CRI', 'CYP', 'CZE', 'DEU', 'DNK', 'DOM', 'ECU', 'EGY', 'ESP', 'EST', 'ETH', 'FIN', 'FRA', 'GAB', 'GBR', 'GEO', 'GHA', 'GRC', 'GTM', 'HND', 'HRV', 'HUN', 'IDN', 'IND', 'IRL', 'ISL', 'ISR', 'ITA', 'JAM', 'JOR', 'JPN', 'KAZ', 'KEN', 'KNA', 'KOR', 'KWT', 'LAO', 'LBN', 'LCA', 'LKA', 'LTU', 'LUX', 'LVA', 'MAR', 'MEX', 'MKD', 'MNG', 'MYS', 'NAM', 'NGA', 'NLD', 'NOR', 'NZL', 'OMN', 'PAK', 'PAN', 'PER', 'PHL', 'PNG', 'POL', 'PRT', 'PRY', 'QAT', 'ROU', 'RWA', 'SAU', 'SEN', 'SGP', 'SLV', 'SRB', 'SVK', 'SVN', 'SWE', 'SYC', 'THA', 'TJK', 'TTO', 'TUN', 'TUR', 'UKR', 'URY', 'USA', 'UZB', 'VCT', 'VEN', 'VNM', 'ZAF', 'ZMB']
+
+below_IG (56 ISOs):
+  ['AGO', 'ALB', 'ARG', 'ARM', 'AZE', 'BGD', 'BLR', 'BLZ', 'BOL', 'BRA', 'BRB', 'CIV', 'CMR', 'COL', 'CRI', 'DOM', 'ECU', 'EGY', 'ETH', 'GAB', 'GEO', 'GHA', 'GTM', 'HND', 'IDN', 'JAM', 'JOR', 'KEN', 'LAO', 'LBN', 'LKA', 'MAR', 'MNG', 'NGA', 'PAK', 'PAN', 'PER', 'PHL', 'PNG', 'PRY', 'ROU', 'RWA', 'SEN', 'SLV', 'SRB', 'SYC', 'TJK', 'TUR', 'UKR', 'URY', 'UZB', 'VCT', 'VEN', 'VNM', 'ZAF', 'ZMB']
+
+TC_exposed (33 ISOs):
+  ['ATG', 'AUS', 'BGD', 'BHS', 'BLZ', 'BRA', 'BRB', 'CHN', 'COL', 'CRI', 'DOM', 'FRA', 'GTM', 'HND', 'IND', 'JAM', 'KNA', 'LAO', 'LCA', 'LKA', 'MAR', 'MEX', 'NZL', 'OMN', 'PAN', 'PHL', 'SLV', 'THA', 'TTO', 'USA', 'VCT', 'VEN', 'VNM']
+

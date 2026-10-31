@@ -1,0 +1,68 @@
+\documentclass[10pt]{article}
+\usepackage[a4paper,portrait,margin=0.35in]{geometry}
+\usepackage{booktabs}
+\usepackage{threeparttable}
+\usepackage{caption}
+\usepackage{array}
+\setlength{\tabcolsep}{3pt}
+\renewcommand{\arraystretch}{0.95}
+\begin{document}
+\thispagestyle{empty}
+\begin{table}[h!]
+  \centering
+  \scriptsize
+  \caption{Table 1}
+  \label{rating-table-yearFE-avgscore}
+  \begin{threeparttable}
+  \begin{tabular}{lcccccc}
+    \toprule
+    Variable & All & above\_IG & below\_IG & SIDS & TC\_exposed1 & TC\_exposed2 \\
+    \midrule
+    Public debt/GDP & -0.0372*** & -0.0435*** & -0.0271*** & -0.0468*** & -0.0344*** & -0.0291** \\
+     & (0.0058) & (0.0060) & (0.0085) & (0.0160) & (0.0118) & (0.0124) \\[2pt]
+    GDP per capita (log) & 2.3743*** & 2.4999** & 2.6826*** & 6.6867*** & 2.0594 & 3.0711 \\
+     & (0.8278) & (1.1924) & (0.7936) & (1.7786) & (1.6641) & (2.9446) \\[2pt]
+    GDP growth & -0.0277 & -0.0781*** & 0.0176 & 0.0031 & -0.0664* & -0.0287 \\
+     & (0.0177) & (0.0230) & (0.0206) & (0.0410) & (0.0395) & (0.0489) \\[2pt]
+    Primary balance & -0.0441** & -0.0287 & -0.0753*** & -0.1635** & -0.0541 & -0.0344 \\
+     & (0.0181) & (0.0197) & (0.0215) & (0.0827) & (0.0563) & (0.0695) \\[2pt]
+    Current account/GDP & 0.0259* & 0.0243 & 0.0233* & -0.0037 & 0.0592** & 0.0497 \\
+     & (0.0136) & (0.0205) & (0.0129) & (0.0258) & (0.0296) & (0.0364) \\[2pt]
+    Crisis (sovereign default) & -0.0428 & -0.0641 & -0.0960 & 0.0101 & 0.3593 & 0.3189 \\
+     & (0.1802) & (0.2543) & (0.2775) & (0.2056) & (0.2662) & (0.2297) \\[2pt]
+    Sovereign default (past 5y) & -0.4591** & -0.5645* & -0.1013 & -0.1878 & -0.4372 & -0.3072 \\
+     & (0.2217) & (0.2901) & (0.3069) & (0.4549) & (0.2780) & (0.5456) \\[2pt]
+    WGI: Regulatory Quality & 1.7173*** & 2.2412*** & 0.5330 & -0.1992 & 0.5467 & 0.5981 \\
+     & (0.3837) & (0.4773) & (0.5498) & (0.7577) & (0.5114) & (0.7806) \\[2pt]
+    WGI: Rule of Law & 1.2071** & 0.9366 & 1.3889* & 1.5019*** & 1.6617** & 1.9194 \\
+     & (0.4850) & (0.5925) & (0.8382) & (0.4725) & (0.8126) & (1.1743) \\[2pt]
+    WGI: Political Stability & 0.4106 & 0.3325 & 0.4604 & -1.4359*** & -0.4063 & -0.6258 \\
+     & (0.2547) & (0.3426) & (0.3318) & (0.4571) & (0.4672) & (0.9152) \\[2pt]
+    Inflation & -0.0243*** & -0.0608*** & -0.0234*** & -0.0390 & -0.0605*** & -0.0676*** \\
+     & (0.0094) & (0.0225) & (0.0083) & (0.0302) & (0.0159) & (0.0149) \\[2pt]
+    Unemployment & -0.1241*** & -0.1651*** & -0.0237 & 0.0373 & -0.0933* & -0.0351 \\
+     & (0.0363) & (0.0463) & (0.0309) & (0.0447) & (0.0494) & (0.0837) \\[2pt]
+    \midrule
+    Constant & -6.4465 & -9.6140 & -10.9394* & -46.4795*** & -3.5828 & -14.8572 \\
+     & (6.8099) & (12.4743) & (6.2834) & (13.8637) & (16.9632) & (29.2614) \\[2pt]
+    \midrule
+    Observations & 1730 & 1057 & 673 & 162 & 454 & 256 \\
+    R-squared & 0.963 & 0.947 & 0.788 & 0.9 & 0.963 & 0.963 \\
+    Number of countries & 94 & 54 & 40 & 9 & 24 & 13 \\
+    Country fixed effects & Yes & Yes & Yes & Yes & Yes & Yes \\
+    Year fixed effects & Yes & Yes & Yes & Yes & Yes & Yes \\
+    Time period & 1996-2019 & 1996-2019 & 1996-2019 & 1996-2019 & 1996-2019 & 1996-2019 \\
+    Frequency & Annual & Annual & Annual & Annual & Annual & Annual \\
+    \bottomrule
+  \end{tabular}
+  \begin{tablenotes}
+    \footnotesize
+    \item Standard errors in parentheses, clustered by ISO. *** $p<0.01$, ** $p<0.05$, * $p<0.1$.
+    \item \textit{below\_IG}: countries with $<$BBB- credit rating in 2019.
+    \item \textit{SIDS}: Small Island Developing States.
+    \item \textit{TC\_exposed1}: countries exposed to $>$cat1 wind speeds, excluding countries that fall outside tropical latitudes ($\pm$23.5$^\circ$).
+    \item \textit{TC\_exposed2}: countries exposed to $>$cat3 wind speeds, excluding countries that fall outside tropical latitudes ($\pm$23.5$^\circ$).
+  \end{tablenotes}
+  \end{threeparttable}
+\end{table}
+\end{document}

@@ -1,0 +1,299 @@
+SOV_A3,ISO_A3,SOVEREIGNT,TYPE,ADMIN,ISO_for_mapping
+IDN,IDN,Indonesia,Sovereign country,Indonesia,IDN
+MYS,MYS,Malaysia,Sovereign country,Malaysia,MYS
+CHL,CHL,Chile,Sovereign country,Chile,CHL
+BOL,BOL,Bolivia,Sovereign country,Bolivia,BOL
+PER,PER,Peru,Sovereign country,Peru,PER
+ARG,ARG,Argentina,Sovereign country,Argentina,ARG
+GB1,-99,United Kingdom,Dependency,Dhekelia Sovereign Base Area,GBR
+CYP,CYP,Cyprus,Sovereign country,Cyprus,CYP
+IND,IND,India,Sovereign country,India,IND
+CH1,CHN,China,Country,China,CHN
+IS1,ISR,Israel,Disputed,Israel,ISR
+IS1,-99,Israel,Geo unit,Palestine,ISR
+IS1,-99,Israel,Geo unit,Palestine,ISR
+LBN,LBN,Lebanon,Sovereign country,Lebanon,LBN
+ETH,ETH,Ethiopia,Sovereign country,Ethiopia,ETH
+SDS,SSD,South Sudan,Sovereign country,South Sudan,SSD
+SOM,-99,Somalia,Geo unit,Somalia,SOM
+SOM,-99,Somalia,Geo unit,Somalia,SOM
+KEN,KEN,Kenya,Sovereign country,Kenya,KEN
+MWI,MWI,Malawi,Sovereign country,Malawi,MWI
+TZA,TZA,United Republic of Tanzania,Sovereign country,United Republic of Tanzania,TZA
+SYR,-99,Syria,Overlay,Syria,SYR
+SOL,-99,Somaliland,Sovereign country,Somaliland,
+FR1,GUF,France,Geo unit,France,FRA
+SUR,SUR,Suriname,Sovereign country,Suriname,SUR
+GUY,GUY,Guyana,Sovereign country,Guyana,GUY
+KOR,-99,South Korea,Overlay,South Korea,KOR
+PRK,-99,North Korea,Overlay,North Korea,PRK
+MAR,MAR,Morocco,Sovereign country,Morocco,MAR
+SAH,ESH,Western Sahara,Indeterminate,Western Sahara,
+CRI,CRI,Costa Rica,Sovereign country,Costa Rica,CRI
+NIC,NIC,Nicaragua,Sovereign country,Nicaragua,NIC
+COG,COG,Republic of the Congo,Sovereign country,Republic of the Congo,COG
+COD,COD,Democratic Republic of the Congo,Sovereign country,Democratic Republic of the Congo,COD
+BTN,BTN,Bhutan,Sovereign country,Bhutan,BTN
+UKR,UKR,Ukraine,Sovereign country,Ukraine,UKR
+BLR,BLR,Belarus,Sovereign country,Belarus,BLR
+NAM,NAM,Namibia,Sovereign country,Namibia,NAM
+ZAF,ZAF,South Africa,Sovereign country,South Africa,ZAF
+SYR,SYR,Syria,Geo unit,Syria,SYR
+FR1,MAF,France,Dependency,Saint Martin,FRA
+NL1,SXM,Netherlands,Country,Sint Maarten,NLD
+OMN,OMN,Oman,Sovereign country,Oman,OMN
+UZB,UZB,Uzbekistan,Sovereign country,Uzbekistan,UZB
+KA1,KAZ,Kazakhstan,Sovereignty,Kazakhstan,KAZ
+TJK,TJK,Tajikistan,Sovereign country,Tajikistan,TJK
+LTU,LTU,Lithuania,Sovereign country,Lithuania,LTU
+BRA,BRA,Brazil,Sovereign country,Brazil,BRA
+URY,URY,Uruguay,Sovereign country,Uruguay,URY
+MNG,MNG,Mongolia,Sovereign country,Mongolia,MNG
+RUS,RUS,Russia,Sovereign country,Russia,RUS
+CZE,CZE,Czechia,Sovereign country,Czechia,CZE
+DEU,DEU,Germany,Sovereign country,Germany,DEU
+EST,EST,Estonia,Sovereign country,Estonia,EST
+LVA,LVA,Latvia,Sovereign country,Latvia,LVA
+NOR,NOR,Norway,Country,Norway,NOR
+SWE,SWE,Sweden,Sovereign country,Sweden,SWE
+FI1,FIN,Finland,Country,Finland,FIN
+VNM,VNM,Vietnam,Sovereign country,Vietnam,VNM
+KHM,KHM,Cambodia,Sovereign country,Cambodia,KHM
+LUX,LUX,Luxembourg,Sovereign country,Luxembourg,LUX
+ARE,ARE,United Arab Emirates,Sovereign country,United Arab Emirates,ARE
+FR1,FRA,France,Geo unit,France,FRA
+BEL,-99,Belgium,Geo unit,Belgium,BEL
+BEL,-99,Belgium,Geo unit,Belgium,BEL
+GEO,-99,Georgia,Geo unit,Georgia,GEO
+MKD,MKD,North Macedonia,Sovereign country,North Macedonia,MKD
+ALB,ALB,Albania,Sovereign country,Albania,ALB
+AZE,AZE,Azerbaijan,Sovereign country,Azerbaijan,AZE
+KOS,-99,Kosovo,Disputed,Kosovo,
+TUR,TUR,Turkey,Sovereign country,Turkey,TUR
+GEO,-99,Georgia,Geo unit,Georgia,GEO
+ESP,ESP,Spain,Sovereign country,Spain,ESP
+LAO,LAO,Laos,Sovereign country,Laos,LAO
+KGZ,KGZ,Kyrgyzstan,Sovereign country,Kyrgyzstan,KGZ
+ARM,ARM,Armenia,Sovereign country,Armenia,ARM
+DN1,DNK,Denmark,Country,Denmark,DNK
+LBY,LBY,Libya,Sovereign country,Libya,LBY
+TUN,TUN,Tunisia,Sovereign country,Tunisia,TUN
+ROU,ROU,Romania,Sovereign country,Romania,ROU
+HUN,HUN,Hungary,Sovereign country,Hungary,HUN
+SVK,SVK,Slovakia,Sovereign country,Slovakia,SVK
+POL,POL,Poland,Sovereign country,Poland,POL
+IRL,IRL,Ireland,Sovereign country,Ireland,IRL
+GB1,-99,United Kingdom,Geo unit,United Kingdom,GBR
+GRC,GRC,Greece,Sovereign country,Greece,GRC
+ZMB,ZMB,Zambia,Sovereign country,Zambia,ZMB
+SLE,SLE,Sierra Leone,Sovereign country,Sierra Leone,SLE
+GIN,GIN,Guinea,Sovereign country,Guinea,GIN
+LBR,LBR,Liberia,Sovereign country,Liberia,LBR
+CAF,CAF,Central African Republic,Sovereign country,Central African Republic,CAF
+SDN,SDN,Sudan,Sovereign country,Sudan,SDN
+DJI,DJI,Djibouti,Sovereign country,Djibouti,DJI
+ERI,ERI,Eritrea,Sovereign country,Eritrea,ERI
+AUT,AUT,Austria,Sovereign country,Austria,AUT
+IRQ,-99,Iraq,Geo unit,Iraq,IRQ
+ITA,ITA,Italy,Sovereign country,Italy,ITA
+CHE,CHE,Switzerland,Sovereign country,Switzerland,CHE
+IRN,IRN,Iran,Sovereign country,Iran,IRN
+NL1,-99,Netherlands,Geo core,Netherlands,NLD
+LIE,LIE,Liechtenstein,Sovereign country,Liechtenstein,LIE
+CIV,CIV,Ivory Coast,Sovereign country,Ivory Coast,CIV
+SRB,-99,Republic of Serbia,Geo unit,Republic of Serbia,
+MLI,MLI,Mali,Sovereign country,Mali,MLI
+SEN,SEN,Senegal,Sovereign country,Senegal,SEN
+NGA,NGA,Nigeria,Sovereign country,Nigeria,NGA
+BEN,BEN,Benin,Sovereign country,Benin,BEN
+AGO,AGO,Angola,Sovereign country,Angola,AGO
+HRV,HRV,Croatia,Sovereign country,Croatia,HRV
+SVN,SVN,Slovenia,Sovereign country,Slovenia,SVN
+QAT,QAT,Qatar,Sovereign country,Qatar,QAT
+SAU,SAU,Saudi Arabia,Sovereign country,Saudi Arabia,SAU
+BWA,BWA,Botswana,Sovereign country,Botswana,BWA
+ZWE,ZWE,Zimbabwe,Sovereign country,Zimbabwe,ZWE
+PAK,PAK,Pakistan,Sovereign country,Pakistan,PAK
+BGR,BGR,Bulgaria,Sovereign country,Bulgaria,BGR
+THA,THA,Thailand,Sovereign country,Thailand,THA
+SMR,SMR,San Marino,Sovereign country,San Marino,SMR
+HTI,HTI,Haiti,Sovereign country,Haiti,HTI
+DOM,DOM,Dominican Republic,Sovereign country,Dominican Republic,DOM
+TCD,TCD,Chad,Sovereign country,Chad,TCD
+KWT,KWT,Kuwait,Sovereign country,Kuwait,KWT
+IRQ,-99,Iraq,Geo unit,Iraq,IRQ
+SLV,SLV,El Salvador,Sovereign country,El Salvador,SLV
+GTM,GTM,Guatemala,Sovereign country,Guatemala,GTM
+TLS,TLS,East Timor,Sovereign country,East Timor,TLS
+BRN,BRN,Brunei,Sovereign country,Brunei,BRN
+MCO,MCO,Monaco,Sovereign country,Monaco,MCO
+DZA,DZA,Algeria,Sovereign country,Algeria,DZA
+MOZ,MOZ,Mozambique,Sovereign country,Mozambique,MOZ
+SWZ,SWZ,eSwatini,Sovereign country,eSwatini,SWZ
+BDI,BDI,Burundi,Sovereign country,Burundi,BDI
+RWA,RWA,Rwanda,Sovereign country,Rwanda,RWA
+MMR,MMR,Myanmar,Sovereign country,Myanmar,MMR
+BGD,BGD,Bangladesh,Sovereign country,Bangladesh,BGD
+AND,AND,Andorra,Sovereign country,Andorra,AND
+AFG,AFG,Afghanistan,Sovereign country,Afghanistan,AFG
+SRB,-99,Republic of Serbia,Geo unit,Republic of Serbia,
+MNE,MNE,Montenegro,Sovereign country,Montenegro,MNE
+BIH,-99,Bosnia and Herzegovina,Geo unit,Bosnia and Herzegovina,
+BIH,-99,Bosnia and Herzegovina,Geo unit,Bosnia and Herzegovina,
+UGA,UGA,Uganda,Sovereign country,Uganda,UGA
+CU1,-99,Cuba,Lease,US Naval Base Guantanamo Bay,CUB
+CU1,CUB,Cuba,Sovereignty,Cuba,CUB
+HND,HND,Honduras,Sovereign country,Honduras,HND
+ECU,ECU,Ecuador,Sovereign country,Ecuador,ECU
+COL,COL,Colombia,Sovereign country,Colombia,COL
+PRY,PRY,Paraguay,Sovereign country,Paraguay,PRY
+BRI,-99,Brazilian Island,Indeterminate,Brazilian Island,
+PRT,-99,Portugal,Geo unit,Portugal,PRT
+BIH,-99,Bosnia and Herzegovina,Geo unit,Bosnia and Herzegovina,
+MDA,MDA,Moldova,Sovereign country,Moldova,MDA
+PRK,PRK,North Korea,Sovereign country,North Korea,PRK
+TKM,TKM,Turkmenistan,Sovereign country,Turkmenistan,TKM
+JOR,JOR,Jordan,Sovereign country,Jordan,JOR
+NPL,NPL,Nepal,Sovereign country,Nepal,NPL
+LSO,LSO,Lesotho,Sovereign country,Lesotho,LSO
+CMR,CMR,Cameroon,Sovereign country,Cameroon,CMR
+GAB,GAB,Gabon,Sovereign country,Gabon,GAB
+NER,NER,Niger,Sovereign country,Niger,NER
+BFA,BFA,Burkina Faso,Sovereign country,Burkina Faso,BFA
+TGO,TGO,Togo,Sovereign country,Togo,TGO
+GHA,GHA,Ghana,Sovereign country,Ghana,GHA
+GNB,GNB,Guinea-Bissau,Sovereign country,Guinea-Bissau,GNB
+GB1,GIB,United Kingdom,Disputed,Gibraltar,GBR
+US1,USA,United States of America,Country,United States of America,USA
+CAN,CAN,Canada,Sovereign country,Canada,CAN
+MEX,MEX,Mexico,Sovereign country,Mexico,MEX
+BLZ,BLZ,Belize,Sovereign country,Belize,BLZ
+PAN,PAN,Panama,Sovereign country,Panama,PAN
+VEN,VEN,Venezuela,Sovereign country,Venezuela,VEN
+PNG,-99,Papua New Guinea,Geo unit,Papua New Guinea,PNG
+EGY,EGY,Egypt,Sovereign country,Egypt,EGY
+YEM,YEM,Yemen,Sovereign country,Yemen,YEM
+MRT,MRT,Mauritania,Sovereign country,Mauritania,MRT
+GNQ,GNQ,Equatorial Guinea,Sovereign country,Equatorial Guinea,GNQ
+GMB,GMB,Gambia,Sovereign country,Gambia,GMB
+CH1,HKG,China,Country,Hong Kong S.A.R.,CHN
+VAT,VAT,Vatican,Sovereign country,Vatican,VAT
+CYN,-99,Northern Cyprus,Sovereign country,Northern Cyprus,
+CNM,-99,Cyprus No Mans Area,Indeterminate,Cyprus No Mans Area,
+KAS,-99,Kashmir,Indeterminate,Siachen Glacier,
+KOR,KOR,South Korea,Sovereign country,South Korea,KOR
+KA1,-99,Kazakhstan,Lease,Baykonur Cosmodrome,KAZ
+GB1,-99,United Kingdom,Dependency,Akrotiri Sovereign Base Area,GBR
+SPI,-99,Southern Patagonian Ice Field,Indeterminate,Southern Patagonian Ice Field,
+BRT,-99,Bir Tawil,Indeterminate,Bir Tawil,
+GB1,-99,United Kingdom,Geo unit,United Kingdom,GBR
+GB1,-99,United Kingdom,Geo unit,United Kingdom,GBR
+GB1,-99,United Kingdom,Geo unit,United Kingdom,GBR
+BEL,-99,Belgium,Geo unit,Belgium,BEL
+ATA,ATA,Antarctica,Indeterminate,Antarctica,
+AU1,AUS,Australia,Country,Australia,AUS
+DN1,GRL,Denmark,Country,Greenland,DNK
+FJI,FJI,Fiji,Sovereign country,Fiji,FJI
+NZ1,NZL,New Zealand,Country,New Zealand,NZL
+FR1,NCL,France,Dependency,New Caledonia,FRA
+MDG,MDG,Madagascar,Sovereign country,Madagascar,MDG
+PHL,PHL,Philippines,Sovereign country,Philippines,PHL
+LKA,LKA,Sri Lanka,Sovereign country,Sri Lanka,LKA
+NL1,CUW,Netherlands,Country,Curaçao,NLD
+NL1,ABW,Netherlands,Country,Aruba,NLD
+BHS,BHS,The Bahamas,Sovereign country,The Bahamas,BHS
+GB1,TCA,United Kingdom,Dependency,Turks and Caicos Islands,GBR
+TWN,TWN,Taiwan,Sovereign country,Taiwan,TWN
+JPN,JPN,Japan,Sovereign country,Japan,JPN
+FR1,SPM,France,Dependency,Saint Pierre and Miquelon,FRA
+ISL,ISL,Iceland,Sovereign country,Iceland,ISL
+GB1,PCN,United Kingdom,Dependency,Pitcairn Islands,GBR
+FR1,PYF,France,Dependency,French Polynesia,FRA
+FR1,ATF,France,Dependency,French Southern and Antarctic Lands,FRA
+SYC,SYC,Seychelles,Sovereign country,Seychelles,SYC
+KIR,KIR,Kiribati,Sovereign country,Kiribati,KIR
+MHL,MHL,Marshall Islands,Sovereign country,Marshall Islands,MHL
+TTO,TTO,Trinidad and Tobago,Sovereign country,Trinidad and Tobago,TTO
+GRD,GRD,Grenada,Sovereign country,Grenada,GRD
+NL1,BES,Netherlands,Geo unit,Netherlands,NLD
+VCT,VCT,Saint Vincent and the Grenadines,Sovereign country,Saint Vincent and the Grenadines,VCT
+BRB,BRB,Barbados,Sovereign country,Barbados,BRB
+LCA,LCA,Saint Lucia,Sovereign country,Saint Lucia,LCA
+FR1,MTQ,France,Geo unit,France,FRA
+DMA,DMA,Dominica,Sovereign country,Dominica,DMA
+FR1,GLP,France,Geo unit,France,FRA
+US1,-99,United States of America,Geo unit,United States Minor Outlying Islands,USA
+GB1,MSR,United Kingdom,Dependency,Montserrat,GBR
+ATG,-99,Antigua and Barbuda,Geo unit,Antigua and Barbuda,
+KNA,KNA,Saint Kitts and Nevis,Sovereign country,Saint Kitts and Nevis,KNA
+ATG,-99,Antigua and Barbuda,Geo unit,Antigua and Barbuda,
+US1,VIR,United States of America,Dependency,United States Virgin Islands,USA
+FR1,BLM,France,Dependency,Saint Barthelemy,FRA
+US1,PRI,United States of America,Dependency,Puerto Rico,USA
+GB1,AIA,United Kingdom,Dependency,Anguilla,GBR
+GB1,VGB,United Kingdom,Dependency,British Virgin Islands,GBR
+JAM,JAM,Jamaica,Sovereign country,Jamaica,JAM
+GB1,CYM,United Kingdom,Dependency,Cayman Islands,GBR
+GB1,BMU,United Kingdom,Dependency,Bermuda,GBR
+AU1,HMD,Australia,Dependency,Heard Island and McDonald Islands,AUS
+GB1,SHN,United Kingdom,Dependency,Saint Helena,GBR
+FR1,REU,France,Geo unit,France,FRA
+MUS,MUS,Mauritius,Sovereign country,Mauritius,MUS
+FR1,MYT,France,Disputed,France,FRA
+COM,COM,Comoros,Sovereign country,Comoros,COM
+TZA,-99,United Republic of Tanzania,Geo unit,United Republic of Tanzania,
+STP,STP,São Tomé and Principe,Sovereign country,São Tomé and Principe,STP
+CPV,CPV,Cabo Verde,Sovereign country,Cabo Verde,CPV
+PRT,-99,Portugal,Geo unit,Portugal,PRT
+MLT,MLT,Malta,Sovereign country,Malta,MLT
+PRT,-99,Portugal,Geo unit,Portugal,PRT
+GB1,JEY,United Kingdom,Country,Jersey,GBR
+GB1,GGY,United Kingdom,Country,Guernsey,GBR
+GB1,IMN,United Kingdom,Country,Isle of Man,GBR
+FI1,ALA,Finland,Country,Aland,FIN
+DN1,FRO,Denmark,Dependency,Faroe Islands,DNK
+AU1,CCK,Australia,Geo unit,Indian Ocean Territories,AUS
+GB1,IOT,United Kingdom,Disputed,British Indian Ocean Territory,GBR
+SGP,SGP,Singapore,Sovereign country,Singapore,SGP
+NOR,-99,Norway,Dependency,Norway,NOR
+NOR,SJM,Norway,Dependency,Norway,NOR
+AU1,NFK,Australia,Dependency,Norfolk Island,AUS
+NZ1,COK,New Zealand,Dependency,Cook Islands,NZL
+TON,TON,Tonga,Sovereign country,Tonga,TON
+FR1,WLF,France,Dependency,Wallis and Futuna,FRA
+WSM,WSM,Samoa,Sovereign country,Samoa,WSM
+SLB,SLB,Solomon Islands,Sovereign country,Solomon Islands,SLB
+TUV,TUV,Tuvalu,Sovereign country,Tuvalu,TUV
+PNG,-99,Papua New Guinea,Geo unit,Papua New Guinea,PNG
+MDV,MDV,Maldives,Sovereign country,Maldives,MDV
+NRU,NRU,Nauru,Sovereign country,Nauru,NRU
+FSM,FSM,Federated States of Micronesia,Sovereign country,Federated States of Micronesia,FSM
+GB1,SGS,United Kingdom,Dependency,South Georgia and the Islands,GBR
+NOR,BVT,Norway,Dependency,Norway,NOR
+GB1,FLK,United Kingdom,Disputed,Falkland Islands,GBR
+VUT,VUT,Vanuatu,Sovereign country,Vanuatu,VUT
+NZ1,NIU,New Zealand,Dependency,Niue,NZL
+US1,ASM,United States of America,Dependency,American Samoa,USA
+PLW,PLW,Palau,Sovereign country,Palau,PLW
+US1,GUM,United States of America,Dependency,Guam,USA
+US1,MNP,United States of America,Dependency,Northern Mariana Islands,USA
+CH1,-99,China,Geo unit,China,CHN
+BHR,BHR,Bahrain,Sovereign country,Bahrain,BHR
+AU1,-99,Australia,Dependency,Coral Sea Islands,AUS
+AU1,CXR,Australia,Geo unit,Indian Ocean Territories,AUS
+NZ1,TKL,New Zealand,Geo unit,New Zealand,NZL
+US1,-99,United States of America,Geo unit,United States Minor Outlying Islands,USA
+US1,-99,United States of America,Geo unit,United States Minor Outlying Islands,USA
+US1,-99,United States of America,Geo unit,United States Minor Outlying Islands,USA
+PGA,-99,Spratly Islands,Indeterminate,Spratly Islands,
+US1,-99,United States of America,Geo unit,United States Minor Outlying Islands,USA
+US1,-99,United States of America,Geo unit,United States Minor Outlying Islands,USA
+FR1,-99,France,Dependency,Clipperton Island,FRA
+US1,-99,United States of America,Geo unit,United States Minor Outlying Islands,USA
+CH1,MAC,China,Country,Macao S.A.R,CHN
+AU1,-99,Australia,Dependency,Ashmore and Cartier Islands,AUS
+US1,-99,United States of America,Geo unit,United States Minor Outlying Islands,USA
+US1,-99,United States of America,Geo unit,United States Minor Outlying Islands,USA
+BJN,-99,Bajo Nuevo Bank (Petrel Is.),Indeterminate,Bajo Nuevo Bank (Petrel Is.),
+SER,-99,Serranilla Bank,Indeterminate,Serranilla Bank,
+SCR,-99,Scarborough Reef,Indeterminate,Scarborough Reef,
